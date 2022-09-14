@@ -70,7 +70,7 @@
 
 
 			"user": "Real Madrid vs RB Leipzig SD",
-			"pageUrl": "http://37.49.224.248:8081/live/ch4/chunks.m3u8",
+			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1663208056-0-0-925d59df5f0932ac3a669faddb221844",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/UEFA_Champions_League.svg/808px-UEFA_Champions_League.svg.png"
 		},
@@ -123,18 +123,11 @@
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/UEFA_Champions_League.svg/808px-UEFA_Champions_League.svg.png"
 		},
 		
+		
 		{
 
 
-			"user": "Maccabi Haifa vs PSG HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3HD/may3HD@456.m3u8",
-			"type": " UEFA Champions League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/UEFA_Champions_League.svg/808px-UEFA_Champions_League.svg.png"
-		},
-		{
-
-
-			"user": "Maccabi Haifa vs PSG HD2",
+			"user": "Maccabi Haifa vs PSG HD",
 			"pageUrl": "http://37.49.224.248:8081/live/ch10/chunks.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/UEFA_Champions_League.svg/808px-UEFA_Champions_League.svg.png"
