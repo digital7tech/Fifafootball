@@ -39,8 +39,17 @@
 		{
 
 
-			"user": "Rennes vs Fenerbahçe HD",
+			"user": "Rennes vs Fenerbahçe HD1",
 			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may6/may6@456.m3u8",
+			"type": " UEFA Europa League ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
+		},
+
+	{
+
+
+			"user": "Rennes vs Fenerbahçe HD2",
+			"pageUrl": "http://37.49.224.248:8081/live/ch3/chunks.m3u8",
 			"type": " UEFA Europa League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
 		},
@@ -80,7 +89,7 @@
 
 
 			"user": "Silkeborg vs WestHam HD (English)",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2HD/may2HD@456.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch2/chunks.m3u8",
 			"type": "  Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
@@ -96,7 +105,7 @@
 
 
 			"user": "İstanbul Başakşehir vs Fiorentina HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch1/chunks.m3u8",
 			"type": "  Europa Conference League ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
