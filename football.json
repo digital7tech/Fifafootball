@@ -82,7 +82,7 @@
 
 
 			"user": "Athletic Club vs Rayo Vallecano SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch2/chunks.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
@@ -91,7 +91,7 @@
 
 
 			"user": "Athletic Club vs Rayo Vallecano HD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch2/chunks.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
