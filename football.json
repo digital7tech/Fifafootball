@@ -86,8 +86,16 @@
 		{
 
 
-			"user": "Fiorentina vs Hellas Verona HD",
+			"user": "Fiorentina vs Hellas Verona HD1",
 			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1663526176-0-0-2f2ddaf4b695642f7760b03fe025bdf5",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Fiorentina vs Hellas Verona HD2",
+			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1663527016-0-0-542d2b94f95f673db507a7099c9750f3",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -95,8 +103,16 @@
 		{
 
 
-			"user": "Cremonese vs Lazio HD",
+			"user": "Cremonese vs Lazio HD1",
 			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may61/may61@456.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Cremonese vs Lazio HD2",
+			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-3378908.m3u8?auth_key=1663526956-0-0-41652738d826303848bb2fb4cccd19c0",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -105,7 +121,7 @@
 
 
 			"user": "Marseille vs Rennes HD",
-			"pageUrl": "http://89.105.221.229:8080/soha/6vip7/19142?play_token=ph4wCfQpyF&token=GBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA==",
+			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-410324.m3u8?auth_key=1663526107-0-0-53bd447d5c2c11fc74d315baa5f7d75e",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
