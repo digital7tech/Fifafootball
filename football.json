@@ -4,112 +4,7 @@
 
 
 		
-		{
-
-
-			"user": "Osasuna vs Getafe SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may12/may12@456.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-		{
-
-
-			"user": "Osasuna vs Getafe HD",
-			"pageUrl": "http://37.49.224.248:8081/live/ch2/chunks.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-		{
-
-
-			"user": "Monza vs Juventus HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Monza vs Juventus HD2",
-			"pageUrl": "http://37.49.224.248:8081/live/ch3/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Monza vs Juventus HD3",
-			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-329032.m3u8?auth_key=1663525576-0-0-9389fe84ce53c3df0fa03917df275174",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Fiorentina vs Hellas Verona HD1",
-			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1663526176-0-0-2f2ddaf4b695642f7760b03fe025bdf5",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Fiorentina vs Hellas Verona HD2",
-			"pageUrl": "http://37.49.224.248:8081/live/ch5/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			
-		{
-
-
-			"user": "Cremonese vs Lazio HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may61/may61@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Cremonese vs Lazio HD2",
-			"pageUrl": "http://37.49.224.248:8081/live/ch6/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
 		
-		{
-
-
-			"user": "Marseille vs Rennes HD",
-			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-410324.m3u8?auth_key=1663526107-0-0-53bd447d5c2c11fc74d315baa5f7d75e",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Nice vs Angers SCO HD",
-			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-435066.m3u8?auth_key=1663526896-0-0-144a8f7b526de58d6b296a700755eebf",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Clermont vs Troyes HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Brest vs Ajaccio HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
 		{
 
 
@@ -175,26 +70,19 @@
 
 
 			"user": "Nantes vs Lens HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may61/may61@456.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 	{
 
 
-			"user": "Bochum vs Köln SD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"user": "Bochum vs Köln",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may10/may10@456.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
-		{
-
-
-			"user": "Bochum vs Köln HD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
+		
 		
 		
 		{
