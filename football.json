@@ -26,7 +26,7 @@
 		{
 
 			"user": "France vs Austria HD",
-			"pageUrl": "https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/chunklist.m3u8",
+			"pageUrl": "http://185.209.15.245:8081/live/ch3/chunks.m3u8",
 			"type": "UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZPND5OFIbNnwbyWH8PLG8M-JJZx-dIb84A&usqp=CAU"
 		},
@@ -68,21 +68,21 @@
 		{
 
 			"user": "Croatia vs Denmark HD",
-			"pageUrl": "http://185.209.15.245:8081/live/ch1/chunks.m3u8",
+			"pageUrl": "http://185.209.15.245:8081/live/ch4/chunks.m3u8",
 			"type": "UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZPND5OFIbNnwbyWH8PLG8M-JJZx-dIb84A&usqp=CAU"
 		},
 		{
 
 			"user": "Turkey vs Luxembourg HD",
-			"pageUrl": "http://185.209.15.245:8081/live/ch1/chunks.m3u8",
+			"pageUrl": "http://185.209.15.245:8081/live/ch6/chunks.m3u8",
 			"type": "UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZPND5OFIbNnwbyWH8PLG8M-JJZx-dIb84A&usqp=CAU"
 		},
 		{
 
 			"user": "Slovakia vs Azerbaijan HD",
-			"pageUrl": "http://185.209.15.245:8081/live/ch1/chunks.m3u8",
+			"pageUrl": "http://185.209.15.245:8081/live/ch7/chunks.m3u8",
 			"type": "UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZPND5OFIbNnwbyWH8PLG8M-JJZx-dIb84A&usqp=CAU"
 		},
