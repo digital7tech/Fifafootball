@@ -74,8 +74,15 @@
 		},
 		{
 
-			"user": "Slovakia vs Azerbaijan HD",
+			"user": "Slovakia vs Azerbaijan HD1",
 			"pageUrl": "http://185.209.15.245:8081/live/ch7/chunks.m3u8",
+			"type": "UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZPND5OFIbNnwbyWH8PLG8M-JJZx-dIb84A&usqp=CAU"
+		},
+		{
+
+			"user": "Slovakia vs Azerbaijan HD2",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-332318.m3u8?auth_key=1663893172-0-0-0a0e437ef74026fd1a8c54fa92982f11",
 			"type": "UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZPND5OFIbNnwbyWH8PLG8M-JJZx-dIb84A&usqp=CAU"
 		},
