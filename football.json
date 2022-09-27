@@ -22,7 +22,15 @@
 	{
 
 			"user": "Ecuador vs Japan",
-			"pageUrl": "https://tv.tas-ix.tv/hls/token_28.m3u8  ",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may8/may8@456.m3u8",
+			"type": "International  Friendly ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDM_niuvV0erdHIRcekscWjRdsJRUVB7yhRw&usqp=CAU"
+		},
+		
+	{
+
+			"user": "Indonesia vs Cuaracao",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may4/may4@456.m3u8",
 			"type": "International  Friendly ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDM_niuvV0erdHIRcekscWjRdsJRUVB7yhRw&usqp=CAU"
 		},
