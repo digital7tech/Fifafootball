@@ -79,8 +79,8 @@
 		},
 			{
 
-			"user": "Switzerland vs Czech Republic HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
+			"user": "Switzerland vs Czech Republic HD (English)",
+			"pageUrl": "http://185.209.15.245:8081/live/ch3/chunks.m3u8",
 			"type": "UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://thumbs.dreamstime.com/b/lviv-ukraine-august-logo-uefa-nations-league-stand-group-selection-national-teams-slovakia-th-127202075.jpg"
 		},
@@ -154,14 +154,20 @@
 		},
 {
 
-			"user": "Ireland vs Armenia",
+			"user": "Ireland vs Armenia SD",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1664324713-0-0-590d5a6bf0f5495a3407b54283fefe7b",
 			"type": "UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://thumbs.dreamstime.com/b/lviv-ukraine-august-logo-uefa-nations-league-stand-group-selection-national-teams-slovakia-th-127202075.jpg"
 		},
 
 
+{
 
+			"user": "Ireland vs Armenia HD (English)",
+			"pageUrl": "http://185.209.15.245:8081/live/ch3/chunks.m3u8",
+			"type": "UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://thumbs.dreamstime.com/b/lviv-ukraine-august-logo-uefa-nations-league-stand-group-selection-national-teams-slovakia-th-127202075.jpg"
+		},
 
 
 	
