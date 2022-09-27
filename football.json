@@ -5,8 +5,16 @@
 
 		{
 
-			"user": "Korea Republic vs Cameroon",
+			"user": "Korea Republic vs Cameroon SD",
 			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may101/may101@456.m3u8  ",
+			"type": "International  Friendly ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDM_niuvV0erdHIRcekscWjRdsJRUVB7yhRw&usqp=CAU"
+		},
+		
+		{
+
+			"user": "Korea Republic vs Cameroon HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1664297053-0-0-143e5ec02870e861a8408305bef8c892 ",
 			"type": "International  Friendly ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDM_niuvV0erdHIRcekscWjRdsJRUVB7yhRw&usqp=CAU"
 		},
