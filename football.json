@@ -104,7 +104,7 @@
 
 
 			"user": "Crystal Palace vs Chelsea (English)",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-yy1616.m3u8?auth_key=1664652554-0-0-dd866b53090b334cf00cee6874b7567d",
+			"pageUrl": "http://37.49.224.248:8081/live/ch6/chunks.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -128,7 +128,7 @@
 
 
 			"user": "Liverpool vs Brighton HD (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch1/chunks.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
