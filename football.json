@@ -3,75 +3,10 @@
 	
 	
 		
-	
-		{
-
-
-			"user": "Girona vs Real Sociedad",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-		{
-
-
-			"user": "Juventus vs Bologna HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123HD/123HD@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Juventus vs Bologna HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may8/may8@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Juventus vs Bologna HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1664755934-0-0-ea0f84cbe2ec7f3a0f1b97e63aa9c26a",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Lens vs Olympique Lyonnais",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may10/may10@456.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Real Madrid vs Osasuna SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-		{
-
-
-			"user": "Real Madrid vs Osasuna HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1HD/may1HD@456.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-		{
-
-
-			"user": "Real Madrid vs Osasuna HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may11/may11@456.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
 		{
 
 			"user": "PTV SPORTS",
-			"pageUrl": "http://89.105.221.229:8080/soha/6vip7/19138?play_token=ph4wCfQpyF&token=GBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA==  ",
+			"pageUrl": "https://tv.tas-ix.tv/hls/token_28.m3u8  ",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
