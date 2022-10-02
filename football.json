@@ -4,30 +4,6 @@
 		{
 
 
-			"user": "Lazio vs Spezia HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Lazio vs Spezia HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may8/may8@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Lazio vs Spezia HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1664727314-0-0-b9bf46a30475dd05d04d0219c6ece8f6",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
 			"user": "Lorient vs Lille HD1",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-5645612.m3u8?auth_key=1664729114-0-0-6b90e7235127628105182a1a071d0492",
 			"type": "FRENCH LIGUE 1⚽️ ",
@@ -80,7 +56,7 @@
 
 
 			"user": "Manchester City vs Manchester United (English)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch1/chunks.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
