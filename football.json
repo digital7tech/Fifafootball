@@ -56,7 +56,7 @@
 
 
 			"user" : "Manchester City vs Manchester United SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -64,7 +64,7 @@
 
 
 			"user": "Manchester City vs Manchester United HD1",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may91/may91@456.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -72,7 +72,7 @@
 
 
 			"user": "Manchester City vs Manchester United HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -105,7 +105,7 @@
 
 
 			"user": "Sassuolo vs Salernitana",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may8/may8@456.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -114,7 +114,7 @@
 
 
 			"user": "Ajaccio vs Clermont",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
+			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/chunklist.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -122,7 +122,7 @@
 
 
 			"user": "Auxerre vs Brest",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may121/may121@456.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -130,7 +130,7 @@
 
 
 			"user": "Toulouse vs Montpellier",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
+			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may111/chunklist.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
@@ -142,19 +142,12 @@
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
-			{
-
-
-			"user": "KHertha BSC vs Hoffenheim SD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
+			
 		{
 
 
-			"user": "KHertha BSC vs Hoffenheim HD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"user": "Hertha BSC vs Hoffenheim HD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may10/may10@456.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
