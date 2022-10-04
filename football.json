@@ -53,7 +53,7 @@
 {
 
 			"user": "Liverpool vs Rangers HD (English)",
-			"pageUrl": "http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3 ",
+			"pageUrl": "http://37.49.224.248:8081/live/ch3/chunks.m3u8 ",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/4e/e8/e9/4ee8e9139110201b6e17ac878d1250fd.jpg"
 		},
@@ -74,7 +74,7 @@
 {
 
 			"user": "Internazionale vs Barcelona HD2",
-			"pageUrl": "http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3 ",
+			"pageUrl": "http://37.49.224.248:8081/live/ch2/chunks.m3u8 ",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/4e/e8/e9/4ee8e9139110201b6e17ac878d1250fd.jpg"
 		},
@@ -95,7 +95,7 @@
 {
 
 			"user": "Ajax vs Napoli HD2",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123HD/123HD@456.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch4/chunks.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/4e/e8/e9/4ee8e9139110201b6e17ac878d1250fd.jpg"
 		},
@@ -116,35 +116,35 @@
 {
 
 			"user": "Frankfurt vs Tottenham HD(English)",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3HD/may3HD@456.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch7/chunks.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/4e/e8/e9/4ee8e9139110201b6e17ac878d1250fd.jpg"
 		},
 {
 
 			"user": "Club Brugge vs Atlético Madrid SD",
-			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/chunklist.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch6/chunks.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/4e/e8/e9/4ee8e9139110201b6e17ac878d1250fd.jpg"
 		},
 {
 
 			"user": "Club Brugge vs Atlético Madrid HD",
-			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/chunklist.m3u8 ",
+			"pageUrl": "http://37.49.224.248:8081/live/ch6/chunks.m3u8 ",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/4e/e8/e9/4ee8e9139110201b6e17ac878d1250fd.jpg"
 		},
 {
 
 			"user": "Porto vs Bayer Leverkusen SD",
-			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may91/chunklist.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch5/chunks.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/4e/e8/e9/4ee8e9139110201b6e17ac878d1250fd.jpg"
 		},
 {
 
 			"user": "Porto vs Bayer Leverkusen HD",
-			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may91/chunklist.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch5/chunks.m3u8",
 			"type": " UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/originals/4e/e8/e9/4ee8e9139110201b6e17ac878d1250fd.jpg"
 		},
