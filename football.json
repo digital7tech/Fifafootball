@@ -2,73 +2,7 @@
 	"hits": [
 
 	
-		{
-
-			"user": "Hoffenheim vs Werder Bremen SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8 ",
-			"type": "Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},	
-	{
-
-			"user": "Hoffenheim vs Werder Bremen HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may10/may10@456.m3u8",
-			"type": "Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},	
-{
-
-			"user": "Hoffenheim vs Werder Bremen HD (ENG)",
-			"pageUrl": "http://37.49.224.248:8081/live/ch1/chunks.m3u8",
-			"type": "Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},	
-
-		{
-
-			"user": "Osasuna vs Valencia SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8 ",
-			"type": " ⚽️ ",
-			"webFormatUrl": "https://upload.wika.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},	
-		{
-
-			"user": "Osasuna vs Valencia HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8 ",
-			"type": " ⚽️ ",
-			"webFormatUrl": "https://upload.wika.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-			"user": "Lyon vs Toulouse SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1665190034-0-0-e2a5e58557fd82d527885b8ef489e81d ",
-			"type": " French Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHc4ctC0XTnDmn8fv3qIwvVGeR0fV0B1qQnQ&usqp=CAU"
-		},	
-
-{
-
-			"user": "Lyon vs Toulouse HD",
-			"pageUrl": "http://37.49.224.248:8081/live/ch2/chunks.m3u8 ",
-			"type": " French Ligue 1 ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHc4ctC0XTnDmn8fv3qIwvVGeR0fV0B1qQnQ&usqp=CAU"
-		},
-
-	{
-
-			"user": "QPR vs Reading SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-279949.m3u8?auth_key=1665189134-0-0-a0e6f1461f054b9b7d8b09605adfc2a3",
-			"type": " English Championship ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgcsrwU0AzjeQfVzm2k-BRV8lshHWynrQnA&usqp=CAU"
-		},	
-
-{
-
-			"user": "QPR vs Reading HD (ENG)",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-279949.m3u8?auth_key=1665189134-0-0-a0e6f1461f054b9b7d8b09605adfc2a3 ",
-			"type": " English Championship ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgcsrwU0AzjeQfVzm2k-BRV8lshHWynrQnA&usqp=CAU"
-		},	
+		
 		{
 
 			"user": "PTV SPORTS",
