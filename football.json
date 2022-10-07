@@ -4,19 +4,32 @@
 	
 		{
 
-			"user": "Hoffenheim vs Werder Bremen HD",
-			"pageUrl": "http://103.99.249.107:81/play/a05h  ",
+			"user": "Hoffenheim vs Werder Bremen SD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8 ",
 			"type": "Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},	
-	
+	{
+
+			"user": "Hoffenheim vs Werder Bremen HD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may10/may10@456.m3u8",
+			"type": "Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},	
 		{
 
-			"user": "Osasuna vs Valencia HD",
-			"pageUrl": "http://103.99.249.107:81/play/a05h  ",
+			"user": "Osasuna vs Valencia SD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8 ",
 			"type": " ⚽️ ",
 			"webFormatUrl": "https://upload.wika.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},	
+		{
+
+			"user": "Osasuna vs Valencia HD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8 ",
+			"type": " ⚽️ ",
+			"webFormatUrl": "https://upload.wika.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
 		{
 
 			"user": "Lyon vs Toulouse SD",
@@ -43,7 +56,7 @@
 
 {
 
-			"user": "QPR vs Reading SD (ENG)",
+			"user": "QPR vs Reading HD (ENG)",
 			"pageUrl": "http://103.99.249.107:81/play/a05h  ",
 			"type": " English Championship ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgcsrwU0AzjeQfVzm2k-BRV8lshHWynrQnA&usqp=CAU"
