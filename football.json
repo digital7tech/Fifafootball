@@ -4,8 +4,7 @@
 	
 		
 
-	
-		{
+	{
 
 
 			"user": "Bologna vs Sampdoria HD1",
@@ -18,6 +17,14 @@
 
 			"user": "Bologna vs Sampdoria HD2",
 			"pageUrl": "http://P135@45.86.191.47:8081/live/ch6/chunks.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Bologna vs Sampdoria HD3",
+			"pageUrl": "https://sun.meta-scores.com/918c5c6c62/918c5c6c62@720p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
