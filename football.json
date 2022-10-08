@@ -93,7 +93,7 @@
 
 
 			"user": "Manchester City vs Southampton HD2 (ENG)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://P135@45.86.191.47:8081/live/ch1/chunks.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -118,7 +118,7 @@
 
 
 			"user": "Chelsea vs Wolves HD2 (ENG)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "http://P135@45.86.191.47:8081/live/ch3/chunks.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
