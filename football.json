@@ -128,14 +128,14 @@
 
 
 			"user": "Newcastle vs Brentford SD",
-			"pageUrl": "http://P135@45.86.191.47:8081/live/ch4/chunks.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1665257895-0-0-d6698ad887d29fea219a22cc48695d46",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Newcastle vs Brentford HD",
+			"user": "Newcastle vs Brentford HD (ENG)",
 			"pageUrl": "http://P135@45.86.191.47:8081/live/ch4/chunks.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -144,7 +144,7 @@
 
 
 			"user": "Bournemouth vs Leicester City SD",
-			"pageUrl": "http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-329032.m3u8?auth_key=1665257840-0-0-36ec76e2871a94420de9d423f334d883",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -152,7 +152,7 @@
 		{
 
 
-			"user": "Bournemouth vs Leicester City HD",
+			"user": "Bournemouth vs Leicester City HD (ENG)",
 			"pageUrl": "http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
