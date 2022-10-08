@@ -174,7 +174,15 @@
 
 
 			"user": "Milan vs Juventus HD4",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
+			"pageUrl": "http://P135@45.86.191.47:8081/live/ch6/chunks.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Milan vs Juventus HD5",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-2445688.m3u8?auth_key=1665265575-0-0-1c57b55d7986f0c9598a1e3ad2fe89ec",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
