@@ -3,139 +3,8 @@
 	
 		
 	
-	{
+	
 
-
-			"user": "WestHam vs Fulham SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "WestHam vs Fulham HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "WestHam vs Fulham HD2 (ENG)",
-			"pageUrl": "http://37.49.224.248:8081/live/ch1/chunks.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-{
-
-
-			"user": "Crystal Palace vs Leeds SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Crystal Palace vs Leeds HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may91/may91@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Crystal Palace vs Leeds HD2 (ENG)",
-			"pageUrl": "http://37.49.224.248:8081/live/ch2/chunks.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Crystal Palace vs Leeds HD3",
-			"pageUrl": "https://sun.meta-scores.com/24f14c3ab7/24f14c3ab7@720p.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-{
-
-
-			"user": "Udinese vs Atalanta SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-
-		{
-
-
-			"user": "Udinese vs Atalanta HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may8/may8@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Udinese vs Atalanta HD2",
-			"pageUrl": "http://37.49.224.248:8081/live/ch5/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Monza vs Spezia",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1665340395-0-0-15315e87091fa0c003959a0bc9e05d1d",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-
-		{
-
-
-			"user": "Salernitana vs Hellas Verona",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1665340755-0-0-1269d7ebc9d14ab63933f918246a5a0b",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Brest vs Lorient",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-362789.m3u8?auth_key=1665340515-0-0-a9ee3d2abc563b53577c69238327d035",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Nice vs Troyes",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1665341955-0-0-5bdccef318034ab44d2a377d9de2f98e",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Clermont vs Auxerre",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1665342495-0-0-ca7beacf71b705e734e4bfa34e0ffa81",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Angers SCO vs Strasbourg",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-456906.m3u8?auth_key=1665342555-0-0-69cde93a3b3685111ca2643c9572cbc2 ",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		
 		{
 
 
@@ -203,14 +72,7 @@
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		{
-
-
-			"user": "Hertha BSC vs Freiburg SD",
-			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
+		
 		{
 
 
@@ -224,7 +86,7 @@
 
 
 			"user": "Cremonese vs Napoli HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
+			"pageUrl": "http://37.49.224.248:8081/live/ch5/chunks.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -232,7 +94,7 @@
 
 
 			"user": "Cremonese vs Napoli HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1664670314-0-0-586d4baa0b3442a8013cae2128f239c9",
+			"pageUrl": "http://37.49.224.248:8081/live/ch5/chunks.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
