@@ -7,111 +7,12 @@
 
 	
 
-		{
-
-
-			"user": "Stuttgart vs Union Berlin HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1665358215-0-0-c29bbff3afdbf41b1c3127cdde77b664",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
-		{
-
-
-			"user": "Everton vs Manchester United SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1HD/may1HD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Everton vs Manchester United HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Everton vs Manchester United HD2 (ENG)",
-			"pageUrl": "http://P135@45.86.191.47:8081/live/ch1/chunks.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-{
-
-
-			"user": "Everton vs Manchester United HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1665359055-0-0-b83f87a83740cae5003a5516e79d0c4a",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-
-			"user": "Roma vs Lecce HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1665360735-0-0-51cf88c85e567f77bb191e0e17cc6c73",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Roma vs Lecce HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-362789.m3u8?auth_key=1665361215-0-0-2d1234aa3bae5dbb20a9ce7b4412a314",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Roma vs Lecce HD3",
-			"pageUrl": "http://37.49.224.248:8081/live/ch5/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Lille vs Lens SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1665360735-0-0-3bc2b09f6922cc39888c5d7e4353828b",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Lille vs Lens HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1665360735-0-0-3bc2b09f6922cc39888c5d7e4353828b",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Barcelona vs Celta de Vigo SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3HD/may3HD@456.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-		{
-
-
-			"user": "Barcelona vs Celta de Vigo HD",
-			"pageUrl": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-
 		
 
 		{
 
 			"user": "PTV SPORTS",
-			"pageUrl": "http://89.105.221.229:8080/soha/6vip7/19138?play_token=ph4wCfQpyF&token=GBQKAkBYRFhBDQcAA1wICwNXUg0DUAYFVgsKW1IGVFkBAARXUAgCBAYXT0dDTUtcAFk9XQFAXgJVAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA==  ",
+			"pageUrl": "http://51.178.65.238:80/RMC4/index.m3u8VAgMIUBgVFBBTEDxaVERYQQRXUAkPDBtNFhZdCAdGCVMFAABRAgZQUgJOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRYGFBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA==  ",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
