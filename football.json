@@ -49,8 +49,8 @@
 		{
 
 
-			"user": "Tottenham vs Everton HD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
+			"user": "Tottenham vs Everton HD1",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1665871996-0-0-92f449b6e98da2753516df7c6137586d",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -58,7 +58,7 @@
 		{
 
 
-			"user": "Tottenham vs Everton HD (English)",
+			"user": "Tottenham vs Everton HD (ENG)",
 			"pageUrl": "https://cdn2.footballstreams.top/live/ch1/playlist.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -66,8 +66,16 @@
 		{
 
 
+			"user": "Tottenham vs Everton HD2",
+			"pageUrl": "https://sun.meta-scores.com/0ba81ce389/0ba81ce389@720p.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
 			"user": "Mallorca vs Sevilla HD",
-			"pageUrl": "http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1665872176-0-0-f19d7933c74623ba8f81675ab038337c",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
