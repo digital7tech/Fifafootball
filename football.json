@@ -7,40 +7,6 @@
 		{
 
 
-			"user": "Lorient vs Reims HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1665866716-0-0-3462b5a6eb32cdfa45f27951170c55bb",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-	
-	{
-
-
-			"user": "Torino vs Juventus HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Torino vs Juventus HD2",
-			"pageUrl": "https://sun.meta-scores.com/b366cecd4d/b366cecd4d@720p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Torino vs Juventus HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1665869656-0-0-9edf63c63877e7c0fe249f7fac73779c",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
-		{
-
-
 			"user": "Tottenham vs Everton SD",
 			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
@@ -93,7 +59,7 @@
 
 
 			"user": "Atalanta vs Sassuolo HD1",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1665878836-0-0-763365e2c68c1bafdcb36590f2ffbac3",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -101,7 +67,7 @@
 
 
 			"user": "Atalanta vs Sassuolo HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1665878836-0-0-763365e2c68c1bafdcb36590f2ffbac3",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -109,7 +75,7 @@
 
 
 			"user": "Athletic Club vs Atlético Madrid HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1665794176-0-0-06ea0ef8e39237a3d2c8c9cbb12447b1",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
