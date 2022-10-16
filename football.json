@@ -3,31 +3,7 @@
 
 		
 
-		{
-
-
-			"user": "Aston Villa vs Chelsea SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Aston Villa vs Chelsea HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		{
-
-
-			"user": "Aston Villa vs Chelsea (ENG)",
-			"pageUrl": "http://P135@45.86.191.47:8081/live/ch3/chunks.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
+		
 		{
 
 
@@ -53,121 +29,7 @@
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		{
-
-
-			"user": "Manchester United vs Newcastle SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Manchester United vs Newcastle HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1665945616-0-0-6a89a51e68f35a90e5defe2ba41c4562",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		{
-
-
-			"user": "Manchester United vs Newcastle (ENG)",
-			"pageUrl": "http://P135@45.86.191.47:8081/live/ch1/chunks.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-{
-
-
-			"user": "SOUTHAMPTON VS WESTHAM SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may8/may8@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "SOUTHAMPTON VS WESTHAM HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-435066.m3u8?auth_key=1665946876-0-0-2b8b5f3c533120e52fcc8f724793ba6b",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "SOUTHAMPTON VS WESTHAM HD (ENG)",
-			"pageUrl": "http://P135@45.86.191.47:8081/live/ch4/chunks.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Lazio vs Udinese HD1",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may81/may81@456.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Lazio vs Udinese HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1665945916-0-0-22467c3113c0d7583b03476a9c83a37b",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Spezia vs Cremonese SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1665945976-0-0-542e664162a89a63b77ecce160af65f8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Spezia vs Cremonese HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1665946036-0-0-93f02f333acc1cef5db59248d16efe54",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-
-		{
-
-
-			"user": "Rennes vs Lyon HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1665945676-0-0-ef626e3ec53385dff45c1e0eb4e1ec5d",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Nantes vs Brest HD",
-			"pageUrl": "https://514644076.cloud.anycastapnic.com/xavi/270/chunklist.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Auxerre vs Nice HD",
-			"pageUrl": "https://514644076.cloud.anycastapnic.com/xavi/278/chunklist.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Troyes vs Ajaccio HD",
-			"pageUrl": "https://514644076.cloud.anycastapnic.com/xavi/269/chunklist.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-
+		
 
 		{
 
