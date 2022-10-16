@@ -9,65 +9,7 @@
 
 
 
-		{
-
-
-			"user": "Monaco vs Clermont HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1665952936-0-0-14f60b79a3206ca96b3f85159d0f88e0",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-
-		{
-
-
-			"user": "Liverpool vs Manchester City SD",
-			"pageUrl": "https://jq9sucdqmflivcf.vcdn.com.vn/may1SD/may1SD@456.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Manchester City HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1665954076-0-0-e065213b30f008235d6c8ab2036e46cd",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Manchester City HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-5356701.m3u8?auth_key=1665954136-0-0-395e31211ff1679f554bc542aad81ccd",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Liverpool vs Manchester City (ENG)",
-			"pageUrl": "https://cdn4.footballstreams.top/live/ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMiA0OjQ2OjU1IFBNJmhhc2hfdmFsdWU9TitwNkRhcTNBVHc0TG1ucTVManNFUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi41Ny43NCZzdHJtX2xlbj01",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		{
-
-
-			"user": "Union Berlin vs Dortmund SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1665954916-0-0-6546e37892dd6fbb184276de12d20543",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Union Berlin vs Dortmund HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1665954976-0-0-19b323c5796446fbfb36c3ed20ba3987",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
+		
 
 		{
 
