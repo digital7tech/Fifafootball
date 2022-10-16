@@ -6,23 +6,6 @@
 		{
 
 
-			"user": "Toulouse vs Angers SCO HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1665938596-0-0-09744bbe85099d8a12fbc95af4d0b2ec",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-	
-		{
-
-
-			"user": "Celta Vigo vs Real Sociedad HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-5185670.m3u8?auth_key=1665942856-0-0-ff68625fb2dea0f9dd406eb0aa131e08",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-		{
-
-
 			"user": "Aston Villa vs Chelsea SD",
 			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
@@ -202,7 +185,7 @@
 
 
 			"user": "Real Madrid vs Barcelona SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
@@ -211,7 +194,7 @@
 
 
 			"user": "Real Madrid vs Barcelona HD1",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
@@ -219,7 +202,7 @@
 
 
 			"user": "Real Madrid vs Barcelona HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
