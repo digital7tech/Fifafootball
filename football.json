@@ -18,77 +18,8 @@
 		
 		{
 
-
-			"user": "Bayern München vs Freiburg HD",
-			"pageUrl": "https://jq9sucdqmflivcf.vcdn.com.vn/may2SD/may2SD@456.m3u8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-
-		{
-
-
-			"user": "Hellas Verona vs Milan HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1665966676-0-0-7f2c623207656e0a64288508f2246d31",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Hellas Verona vs Milan HD2",
-			"pageUrl": "https://1093384063.cdn.khmer-hd.com/may8/chunks.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Hellas Verona vs Milan HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1665966496-0-0-b379bcfedb3ae49bf1f08485ae696f68",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Hellas Verona vs Milan HD4",
-			"pageUrl": "https://sun.meta-scores.com/4fee8cfc89/4fee8cfc89@720p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-
-
-		{
-
-
-			"user": "PSG vs Marseille SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1665965716-0-0-a1839cd0d9616e4af5ccd564cd5f9517",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "PSG vs Marseille HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-362789.m3u8?auth_key=1665967216-0-0-04ba357bb8171136a56e0b09ed84d429",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		
-
-		{
-
-
-			"user": "Real Betis vs Almería HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-351237.m3u8?auth_key=1665966976-0-0-b1268a3c64d1f959f6a1186695cbcb44",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-		{
-
 			"user": "PTV SPORTS",
-			"pageUrl": "http://221.120.204.4:8080/LOCKLE-PTV-SPORTS/index.m3u8 ",
+			"pageUrl": "http://54.39.19.162:8081/live/dream1/playlist.m3u8 ",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
