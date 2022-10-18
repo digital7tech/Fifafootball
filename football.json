@@ -1,46 +1,6 @@
 {
 	"hits": [
 		
-		{
-
-
-			"user": "Genoa vs SPAL",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1666129696-0-0-f077281ba32a0a31cbaab8c8b077ab28",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYU6-DL4ezKh6LGyJCA2GrRLWmiXlgr0m1b1dXtXQtXnc1x_fsIaVzNApzHjkRE2UeNU&usqp=CAU"
-		},
-		{
-
-
-			"user": "Lübeck vs Mainz 05",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-5487898.m3u8?auth_key=1666133176-0-0-2be0d0d9f08509f37cdc367f3c158edb",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "Stuttgarter Kickers vs Eintracht Frankfurt",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1666129696-0-0-f149dec511100db58d2754f80e58d4df",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "Waldhof Mannheim vs Nürnberg",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1666129756-0-0-2e8d48c0556f800c61db106fa923d38f",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
-		},
-		{
-
-
-			"user": "RB Leipzig vs Hamburger SV",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1666129756-0-0-3c7e091b5a54ebf2991515fb335ecc46",
-			"type": "Germany - DFB Pokal ⚽️ ",
-			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
-		},
 		
 		
 		{
@@ -55,7 +15,7 @@
 
 
 			"user": "Getafe vs Athletic Club",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1666137256-0-0-95ffa72fb2588a66a2f09d8038eea94c",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
