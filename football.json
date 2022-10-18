@@ -89,7 +89,7 @@
 
 
 			"user": "Crystal Palace vs Wolves SD",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666140256-0-0-a8d32fbcd6b61cb410450ba894c3546c",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -97,7 +97,7 @@
 
 
 			"user": "Crystal Palace vs Wolves HD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666140256-0-0-a8d32fbcd6b61cb410450ba894c3546c",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -106,7 +106,15 @@
 
 
 			"user": "Crystal Palace vs Wolves (ENG)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666140256-0-0-a8d32fbcd6b61cb410450ba894c3546c",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Crystal Palace vs Wolves HD2",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666140256-0-0-a8d32fbcd6b61cb410450ba894c3546c",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
