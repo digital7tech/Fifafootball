@@ -1,8 +1,111 @@
 {
-	"hits": [
+
+
+			"user": "Sevilla vs Valencia",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1666133056-0-0-afa19c31ce591dc0741e3cca01351fa6",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
+		},
+			{
+
+
+			"user": "Getafe vs Athletic Club",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1666137256-0-0-95ffa72fb2588a66a2f09d8038eea94c",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
+		},
+			{
+
+
+			"user": "Brighton vs Nottingham Forest SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1666137316-0-0-859aeebb792186f044532efe30626a51",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Brighton vs Nottingham Forest HD1",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1666138276-0-0-6c9c80f8c8974f1205ca0a0f1d0970a8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
+		{
+
+
+			"user": "Brighton vs Nottingham Forest (ENG)",
+			"pageUrl": "https://cdn10.footballstreams.top/live/ch1/chunks.m3u8?nimblesessionid=15423157&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiA2OjEzOjEwIFBNJmhhc2hfdmFsdWU9RTBNYmZzYVpZUi94ZVVkUzN5YlJSdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi4zNi4zNSZzdHJtX2xlbj01",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Brighton vs Nottingham Forest HD2",
+			"pageUrl": "https://sun.meta-scores.com/07262d9f63/07262d9f63@720p.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 		
 		
+		{
+
+
+			"user": "Darmstadt 98 vs Borussia M'gladbach 04",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1666139656-0-0-be16dcb59e6c81c6400553355f7980a0",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://4.bp.blogspot.com/-0gdsJxP62AI/V2j0dgbDfZI/AAAAAAAA74o/kPMG0GCfJAgW_sdwc8vSPbJ9n8k4sBrYgCLcB/s650/new-dfb-pokal-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Atlético Madrid vs Rayo Vallecano",
+			"pageUrl": "https://sun.meta-scores.com/e8ada26d04/e8ada26d04@720p.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
+		},
+		{
+
+
+			"user": "Torino vs Cittadella",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1666140316-0-0-a55bccd74bf68a7993257bd0ff430b04",
+			"type": "Germany - DFB Pokal ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYU6-DL4ezKh6LGyJCA2GrRLWmiXlgr0m1b1dXtXQtXnc1x_fsIaVzNApzHjkRE2UeNU&usqp=CAU"
+		},
+		{
+
+
+			"user": "Crystal Palace vs Wolves SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666140256-0-0-a8d32fbcd6b61cb410450ba894c3546c",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Crystal Palace vs Wolves HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1666141096-0-0-181a634087547b055477a8b6a74fdf41",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 		
+		{
+
+
+			"user": "Crystal Palace vs Wolves (ENG)",
+			"pageUrl": "https://cdn10.footballstreams.top/live/ch2/chunks.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Crystal Palace vs Wolves HD2",
+			"pageUrl": "https://sun.meta-scores.com/dad0140505/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 	{
 
 			"user": "PTV SPORTS",
