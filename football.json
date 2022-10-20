@@ -6,38 +6,6 @@
               
 			
 
-		{
-
-
-			"user": "Almería vs Girona",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1666305797-0-0-f471cb083163236849aa7a22233bdf2b",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-{
-
-
-			"user": "Arsenal vs PSV SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1666306457-0-0-16af5258801581af3ce8f6be27c15bc6",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		   {
-
-
-			"user": "Arsenal vs PSV (ENG)",
-			"pageUrl": "https://cdn4.footballstreams.top/live/ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMiA0OjQ0OjI0IFBNJmhhc2hfdmFsdWU9VWg4dmwvNURadlUyYU5lb3czZmFYZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi4yMDkuODcmc3RybV9sZW49NQ==",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-		   {
-
-
-			"user": "Arsenal vs PSV HD2",
-			"pageUrl": "https://1093384063.cdn.khmer-hd.com/may1234SD/chunks.m3u8",
-			"type": " UEFA Europa League ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
 		
 		   {
 
@@ -76,7 +44,7 @@
 
 
 			"user": "	Barcelona vs Villarreal SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-5185670.m3u8?auth_key=1666227113-0-0-9cc1d4836d5fc571c3f4971d84ed959e",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1666313237-0-0-97bbfd2aedc450d4a18bc22d35a9870c",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
