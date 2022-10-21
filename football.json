@@ -4,8 +4,65 @@
 
            [
               
-			
+	{
 
+
+			"user": "Mainz 05 vs Köln SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Bundesliga ⚽️ ",
+			"webFormatUrl": "https://www.google.com/search?q=Bundesliga+logo&client=ms-opera-mobile&channel=new&espv=1&prmd=insv&sxsrf=ALiCzsbM8yNIbLQPqAEeiW3aDWzjKjkEPw:1666373350693&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZ8YW97PH6AhWOQ_EDHSP6BGYQ_AUoAXoECAIQAQ&biw=412&bih=730&dpr=2.63#imgrc=rmCQiKF9t1cpwM&imgdii=Duxhoth7NW-DWM."
+		},		
+              
+	{
+
+
+			"user": "Mainz 05 vs Köln HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Bundesliga ⚽️ ",
+			"webFormatUrl": "https://www.google.com/search?q=Bundesliga+logo&client=ms-opera-mobile&channel=new&espv=1&prmd=insv&sxsrf=ALiCzsbM8yNIbLQPqAEeiW3aDWzjKjkEPw:1666373350693&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZ8YW97PH6AhWOQ_EDHSP6BGYQ_AUoAXoECAIQAQ&biw=412&bih=730&dpr=2.63#imgrc=rmCQiKF9t1cpwM&imgdii=Duxhoth7NW-DWM."
+		},		
+		{
+
+
+			"user": "Juventus vs Empoli HD1",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Juventus vs Empoli HD2",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Juventus vs Empoli HD3",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		
+		{
+
+
+			"user": "Ajaccio PSG HD1",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Ajaccio PSG HD1 HD2",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		
 	{
 
 			"user": "PTV SPORTS",
