@@ -3,66 +3,7 @@
  "hits" : 
 
            [
-              
-	{
-
-
-			"user": "Mainz 05 vs Köln SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1666397717-0-0-77ca4cedd2885e36e81400ae5af311d6",
-			"type": "Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
-		},		
-              
-	{
-
-
-			"user": "Mainz 05 vs Köln HD",
-			"pageUrl": "https://sun.meta-scores.com/1ac9a304f5/1ac9a304f5@720p.m3u8",
-			"type": "Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png"
-		},		
-		{
-
-
-			"user": "Juventus vs Empoli HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1666398377-0-0-4d6a6a3a7c797345ab6c6e5350286c31",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Juventus vs Empoli HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1666398437-0-0-aeac6a11ae81893904e6fa88ccd81a3d",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Juventus vs Empoli HD3",
-			"pageUrl": "https://sun.meta-scores.com/550ef8f2ed/550ef8f2ed@720p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
-		{
-
-
-			"user": "Ajaccio PSG HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1666398917-0-0-d55bf4172b2eaa5e6d83a55eaca106f0",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		{
-
-
-			"user": "Ajaccio PSG HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1666398977-0-0-39b51fae99fba93ef4e710ee5729c156",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		
+       
 	{
 
 			"user": "PTV SPORTS",
