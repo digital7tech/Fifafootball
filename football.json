@@ -2,14 +2,7 @@
 	"hits": [
 		
 		
-		{
-
-
-			"user": "Rayo Vallecano vs Cádiz ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1666460717-0-0-cf41b64726348645c32919a24cd7bdfb",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
+		
 		
 		{
 
@@ -136,11 +129,20 @@
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+		
+		{
+
+
+			"user": "Everton vs Crystal Palace HD2",
+			"pageUrl": "https://sun.meta-scores.com/d7d3d5937c/d7d3d5937c@720p.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 			{
 
 
 			"user": "Real Valladolid vs Real Sociedad",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1666468337-0-0-2502dc074f461c912783a11cb41a698c",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
