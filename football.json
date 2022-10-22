@@ -8,14 +8,7 @@
 		
 		
 		
-		{
-
-
-			"user": "Montpellier vs Lyon HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1666471277-0-0-59770986cd656407a7d43c903fee3d2f",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
+		
 	
 		
 		
@@ -65,15 +58,19 @@
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
+		
+	
 		{
 
 
-			"user": "Chelsea vs Manchester United HD2",
-			"pageUrl": "https://sun.meta-scores.com/b11f67fdb2/b11f67fdb2@720p.m3u8",
+			"user": "Chelsea vs Manchester United (ENG)",
+			"pageUrl": "http://87.117.229.35:8030/Crlug1/index.m3u8?token=a2342106c3fd23277db9c48ca6159a1148ab5778-1666457521-1666457444 ",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		{
+		
+
+			{
 
 
 			"user": "Chelsea vs Manchester United HD (ENG)",
@@ -81,17 +78,6 @@
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		{
-
-
-			"user": "Chelsea vs Manchester United HD2 (ENG)",
-			"pageUrl": "https://cdn4.footballstreams.top/live/ch1/chunks.m3u8?nimblesessionid=12273238&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMiA0OjA0OjMzIFBNJmhhc2hfdmFsdWU9MmxTc25GMG5kblVGUFhFQ09vd1p1dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi40NC4xMDgmc3RybV9sZW49NQ==",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-
-		
 		
 	
 		
