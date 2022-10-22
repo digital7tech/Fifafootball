@@ -6,54 +6,6 @@
 		
 		
 		
-		{
-
-
-			"user": "Hoffenheim vs Bayern München SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1666465637-0-0-46f01b46d7393299952f06d00e4ca869",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Hoffenheim vs Bayern München HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1666465997-0-0-09c3f93e0bd62ad1d81dd73aab621a13",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-	{
-
-
-			"user": "Borussia Dortmund vs Stuttgart HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1666465577-0-0-ff04759313286919fc6afe23174c2633",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Bayer Leverkusen vs Wolfsburg HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-2445688.m3u8?auth_key=1666465637-0-0-f974234f9f610d5b193c6929700f5341",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Freiburg vs Werder Bremen HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1666465757-0-0-fb92cb6255872ebe4a52a550533020e9",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Augsburg vs RB Leipzig HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1666465697-0-0-e4e753958444e4d0cee3986b21ae185e",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
 		
 		{
 
@@ -150,7 +102,7 @@
 
 
 			"user": "Milan vs Monza HD1",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-553612.m3u8?auth_key=1666474337-0-0-5e7ac978bc5202d526ea44a8d876861c",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -158,7 +110,7 @@
 
 
 			"user": "Milan vs Monza HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-237152.m3u8?auth_key=1666474397-0-0-1acbcd9e437796440d00328d8ebd4ab5",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -167,7 +119,7 @@
 
 
 			"user": "Milan vs Monza HD3",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1666474397-0-0-3218e5d6bf3c61d64bc8e94ef27edd6f",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
