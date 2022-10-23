@@ -1,22 +1,7 @@
 {
 	"hits": [
 		
-		{
-
-
-			"user": "Udinese vs Torino HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666541237-0-0-b250daaf12890e33ecd728e14d8c73ff",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Udinese vs Torino HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-351237.m3u8?auth_key=1666541777-0-0-902e5b31c919c1db341b21c8fbbeceff",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
+	
 		
 		{
 
@@ -41,7 +26,7 @@
 
 
 			"user": "Southampton vs Arsenal SD",
-			"pageUrl": "https://cdn10.footballstreams.top/live/ch4/playlist.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666549637-0-0-932e7a707969d73c05859c77ccfdd79b",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
