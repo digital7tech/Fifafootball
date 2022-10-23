@@ -72,13 +72,21 @@
 
 
 			"user": "Tottenham vs Newcastle (ENG)",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://cdn9.footballstreams.top/live/ch4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMiAzOjEyOjU4IFBNJmhhc2hfdmFsdWU9WEpZR1BLblVhWVpqUSswc3B4V0RDQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi4xNjAuOTImc3RybV9sZW49NQ==",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 
 		
 	
+		{
+
+
+			"user": "Tottenham vs Newcastle (ENG) 2",
+			"pageUrl": "http://wesyahs.azureedge.net/scripts/NTc0MA==/1080p.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 
 		
 		{
