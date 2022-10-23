@@ -84,7 +84,7 @@
 
 
 			"user": "Leeds United vs Fulham SD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666549277-0-0-483ca578c6b22a0fb805aeb999af4631",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -92,8 +92,16 @@
 		{
 
 
+			"user": "Leeds United vs Fulham HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666549277-0-0-483ca578c6b22a0fb805aeb999af4631",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
 			"user": "Leeds United vs Fulham (ENG)",
-			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/may9/may9@456.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1666549277-0-0-483ca578c6b22a0fb805aeb999af4631",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
