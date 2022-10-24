@@ -8,31 +8,6 @@
 		
 
 		
-		{
-
-
-			"user": "Cremonese vs Sampdoria HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1666648877-0-0-ca670df4fb3887284fb5e19330f9f3c6",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Cremonese vs Sampdoria HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1666649057-0-0-dd6a2295c4747099edbe0713d79aef2d",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-	
-	{
-
-
-			"user": "Cremonese vs Sampdoria HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-351237.m3u8?auth_key=1666649177-0-0-7232c313aa862278a1c11a37d500c49e",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
 		
 		{
 
@@ -82,7 +57,7 @@
 
 
 			"user": "WestHam vs AFC Bournemouth (ENG)",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-351237.m3u8?auth_key=1666657337-0-0-1281258df117011b3360f4ccee539190",
+			"pageUrl": "https://d1kua6t3p9x4he.cloudfront.net/out/v1/597e05430c8940348a062ed994e82edd/index_1.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
