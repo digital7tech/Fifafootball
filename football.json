@@ -88,8 +88,16 @@
 		{
 
 
-			"user": "Dortmund vs Manchester City (ENG)",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666558757-0-0-4068f178854fbe24f438478e2592299c",
+			"user": "Dortmund vs Manchester City HD 1(ENG)",
+			"pageUrl": "http://rfder.azureedge.net/scripts/NTc4Nw==/1080p.m3u8",
+			"type": "UEFA Champions League ",
+			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
+		},
+		{
+
+
+			"user": "Dortmund vs Manchester City HD2(ENG)",
+			"pageUrl": "http://rfder.azureedge.net/scripts/NTc4Nw==/1080p.m3u8",
 			"type": "UEFA Champions League ",
 			"webFormatUrl": "https://1.bp.blogspot.com/-aqbEPSi6fBs/YQlhDOFZRYI/AAAAAAADKdo/C7YepMYAQcMzC2vwW-r8i5n2mLIQosXWACNcBGAsYHQ/s1000/uefa-champions.league-21-22-logo%2B%25282%2529.jpg"
 		},
