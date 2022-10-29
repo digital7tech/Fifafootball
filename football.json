@@ -94,7 +94,7 @@
 
 
 			"user": "Internazionale vs Sampdoria HD1",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667088318-0-0-c3d97631065012f5ab60e32da7cf2758",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -102,20 +102,12 @@
 
 
 			"user": "Internazionale vs Sampdoria HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1667088378-0-0-e15aef981a74b19da66afe33bd9442e5",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
 
-		{
-
-
-			"user": "Internazionale vs Sampdoria HD3",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-
+		
 		{
 
 			"user": "Lille vs Monaco SD",
