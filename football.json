@@ -9,46 +9,6 @@
 		{
 
 
-			"user": "Bayern München vs Mainz 05 SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667071518-0-0-ed74c778f8586976572be253049a45b3",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Bayern München vs Mainz 05 HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667070798-0-0-454f98948a292e0c65500fd5eabb0ec5",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "RB Leipzig vs Bayer Leverkusen SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1667071518-0-0-912b8db7523dfcfca7173180149c1c4e",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Wolfsburg vs Bochum SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667070738-0-0-7c12fb92738316c91ea06255e5dbb9e7",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Stuttgart vs Augsburg SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1667070798-0-0-85f4cc5354395a7b70dac3ffaedfa9e8",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
 			"user": "Brighton vs Chelsea SD",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1667072178-0-0-83267c9ff14df0561dd840015f4a09c0",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
@@ -203,7 +163,7 @@
 
 
 			"user": "Lecce vs Juventus HD1",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1667079258-0-0-97cdf373b896fe81f7af5dc533a0a5dd",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -211,19 +171,12 @@
 
 
 			"user": "Lecce vs Juventus HD2",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1667079258-0-0-59e983921175283ef624bafb741617a0",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
 
-		{
-
-
-			"user": "Lecce vs Juventus HD3",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
+		
 		{
 
 
