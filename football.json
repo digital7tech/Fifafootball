@@ -149,7 +149,7 @@
 
 
 			"user": "Manchester United vs WestHam SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666558757-0-0-4068f178854fbe24f438478e2592299c",
+			"pageUrl": "http://lkoop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -166,11 +166,18 @@
 
 
 			"user": "Manchester United vs WestHam (ENG)",
-			"pageUrl": "http://lopmse.azureedge.net/scripts/NTc0MA==/1080p.m3u8",
+			"pageUrl": "http://lkoop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		
+			{
+
+
+			"user": "Manchester United vs WestHam 2 (ENG)",
+			"pageUrl": "http://nbiop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
 		{
 
 
