@@ -7,23 +7,6 @@
 		
 
 	
-		{
-
-
-			"user": "Real Madrid vs Girona SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667164099-0-0-43452ab9ec3744bf4d6f76cef3e5c32a",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-			
-		{
-
-
-			"user": "Real Madrid vs Girona HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-1756728.m3u8?auth_key=1667162838-0-0-ed238404a3d8eda5fe855c038787ec9e",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
 		
 		
 	
@@ -50,7 +33,7 @@
 
 
 			"user": "Manchester United vs WestHam (ENG)",
-			"pageUrl": "http://lkoop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8",
+			"pageUrl": "http://exoolo.azureedge.net/scripts/NTg2Ng==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -58,7 +41,7 @@
 
 
 			"user": "Manchester United vs WestHam 2 (ENG)",
-			"pageUrl": "http://nbiop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8",
+			"pageUrl": "http://ads.azureedge.net/scripts/NTg2Ng==/1080p.m3u8",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
