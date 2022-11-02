@@ -7,7 +7,7 @@
 
 
 			"user": "Real Madrid vs Celtic SD",
-			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667430739-0-0-95f2050ea84cd15d016c18cc249a5c78",
 			"type": "UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
 		},
@@ -15,15 +15,24 @@
 
 
 			"user": "Real Madrid vs Celtic HD",
-			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667430799-0-0-8a54c4c55aac4e343392eb433f143c64",
 			"type": "UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
 		},
+	 
+		 {
+
+
+			"user": "Real Madrid vs Celtic HD (ENG)",
+			"pageUrl": "http://gyuunn.azureedge.net/scripts/NTk5Mw==/1080p.m3u8",
+			"type": "UEFA Champions League ⚽️ ",
+			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
+		}, 
 	 {
 
 
 			"user": "Shakhtar Donetsk vs RB Leipzig SD",
-			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-348285.m3u8?auth_key=1667430799-0-0-c35df36720b5a44b144467f9398c7b3b",
 			"type": "UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
 		},
@@ -31,7 +40,7 @@
 
 
 			"user": "Shakhtar Donetsk vs RB Leipzig HD",
-			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667430859-0-0-21db99f4f59f6bc7d8a34aa94f51c42f",
 			"type": "UEFA Champions League ⚽️ ",
 			"webFormatUrl": "https://i.pinimg.com/736x/6b/34/c7/6b34c71b11b9f2e04957577ff85e524b.jpg"
 		},
