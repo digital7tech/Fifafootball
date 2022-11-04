@@ -2,31 +2,6 @@
 { 
  "hits" : [
 
-{
-
-			"user": "Borrusia M'gladbach vs Stuttgart HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1667610919-0-0-91882e8798a94ecfff69d2ad1f7832f0",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
-		{
-
-
-			"user": "Udinese vs Lecce HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667612179-0-0-5979ae867d19244a9ea7b1b0cab10d9d",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Udinese vs Lecce HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667611759-0-0-08ecc5730f48e20f5251b6693b8d9478",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-	
 	{
 
 
@@ -35,24 +10,7 @@
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
-				
-		{
-
-
-			"user": "Girona vs Athletic Club HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1667612299-0-0-3aa10de45f4ac82ea32ebdf21051e281",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-	{
-
-
-			"user": "Troyes vs Auxerre HD",
-			"pageUrl": "https://moon.meta-scores.com/19e5aa8508/19e5aa8508@720p.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-
+	
 	{
 
 
