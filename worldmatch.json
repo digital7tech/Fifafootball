@@ -1,1 +1,75 @@
+{
+	"hits": [
+		
+	
+		
+	
+		
+	
+	
+		
+		
+		{
 
+
+			"user": "Milan vs Spezia HD1",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667697799-0-0-0f3eabc11e88a783c23507ab4f4bab44",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Milan vs Spezia HD2",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667697979-0-0-ef414d35fba4e4b9dcf04a73a1bfe370",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+	
+	{
+
+
+			"user": "Milan vs Spezia HD3",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1667698159-0-0-517bf130d5ce439af68ebb6f27d2a88d",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		
+		{
+
+
+			"user": "Barcelona vs Almería SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667698279-0-0-e59951723823047124fec06e606b9ee4",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
+		},
+			
+		{
+
+
+			"user": "Barcelona vs Almería HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
+		},
+
+		{
+
+
+			"user": "Angers SCO vs Lens HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+
+{
+
+			"user": "PTV SPORTS",
+			"pageUrl": "http://golive.yn.lt/live/champions/01.m3u8 ",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		}
+	]
+
+
+}
