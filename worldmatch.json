@@ -7,13 +7,108 @@
 		
 	
 	
-		
+	
 		
 		{
 
 
+			"user": "Ajaccio vs Strasbourg HD",
+			"pageUrl": "https://d2g50nf11st2mk.cloudfront.net/out/v1/32d30715b1d545e38f2a1efc0047a093/index_3.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		
+			
+			{
+
+
+			"user": "Atalanta vs Napoli HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667688260-0-0-106b4e5e0d733b8d42be8d311a8461fd",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+	{
+
+
+			"user": "Atalanta vs Napoli HD1",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667688199-0-0-367a0181c617cedce72e13eb7c9750aa",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+	{
+
+
+			"user": "Atalanta vs Napoli HD3",
+			"pageUrl": "http://hez1-flu.iptvstream.site/135/index.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		
+		{
+
+
+			"user": "Everton vs Leicester City SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667689940-0-0-a2308ed27afdd8ced13854ec641d1bb1",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Everton vs Leicester City HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667689999-0-0-4519a50fe909a3799b470be5b4ccfd97",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		
+		{
+
+
+			"user": "Everton vs Leicester City HD1(ENG)",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667689940-0-0-a2308ed27afdd8ced13854ec641d1bb1",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+	{
+
+
+			"user": "Everton vs Leicester City HD2(ENG)",
+			"pageUrl": "https://moon.meta-scores.com/0f1fa470e6/0f1fa470e6@720p.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
+		},
+		{
+
+
+			"user": "Werder Bremen vs Schalke 04 SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667690539-0-0-d04b433bb52484185499d2d83b8b49d3",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		
+		{
+
+
+			"user": "Werder Bremen vs Schalke 04 HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-5487898.m3u8?auth_key=1667690479-0-0-c47b5f2751898959aceb4005c5e901ec",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		
+				
+		{
+
+
+			"user": "Celta de Vigo vs Osasuna HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1667690599-0-0-b225c52a0625f263bdfc5eb701786676",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
+		},
+		{
+
+
 			"user": "Milan vs Spezia HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667697799-0-0-0f3eabc11e88a783c23507ab4f4bab44",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -21,7 +116,7 @@
 
 
 			"user": "Milan vs Spezia HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1667697979-0-0-ef414d35fba4e4b9dcf04a73a1bfe370",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -30,7 +125,7 @@
 
 
 			"user": "Milan vs Spezia HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1667698159-0-0-517bf130d5ce439af68ebb6f27d2a88d",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -39,7 +134,7 @@
 
 
 			"user": "Barcelona vs Almería SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667698279-0-0-e59951723823047124fec06e606b9ee4",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
@@ -48,7 +143,7 @@
 
 
 			"user": "Barcelona vs Almería HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
 		},
@@ -57,7 +152,7 @@
 
 
 			"user": "Angers SCO vs Lens HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667699179-0-0-1c6a105db604d9e1f85a93ad04e22026",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
