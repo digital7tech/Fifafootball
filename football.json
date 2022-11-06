@@ -26,7 +26,7 @@
 
 
 			"user": "Juventus vs Internazionale HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667784200-0-0-eed0fc9ff4cc4ca1bfea14216244ff9a",
+			"pageUrl": "http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -43,7 +43,7 @@
 
 
 			"user": "Marseille vs Lyon SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667783780-0-0-d9903f3292986ccbfd1a9e73dfd3cc59",
+			"pageUrl": "http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
