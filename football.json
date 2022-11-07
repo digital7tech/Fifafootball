@@ -4,77 +4,7 @@
 	
 		
 	
-	
-
-		{
-
-
-			"user": "Juventus vs Internazionale HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667784140-0-0-76916bb9d1de4ca726d86998d0e57479",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Juventus vs Internazionale HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667784140-0-0-7863985ed9c111beb71f75cff987e14d",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Juventus vs Internazionale HD3",
-			"pageUrl": "http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Juventus vs Internazionale HD4",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1667784620-0-0-c8918b749cf8227e1ec9dadf95f9eefe",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
-			{
-
-
-			"user": "Marseille vs Lyon SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667785700-0-0-91a850d9e1dceac6568e742a9bfccd89",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-			{
-
-
-			"user": "Marseille vs Lyon HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1667783300-0-0-bd3782f6b399ecabbddb8200bab083dc",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
-		
-		{
-
-
-			"user": "Real Betis vs Sevilla SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667785640-0-0-2f877249d61bb1581e67340e7e274bff",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-
-		{
-
-
-			"user": "Real Betis vs Sevilla HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667698279-0-0-b56e8b78ed45211af7c12c81afca0430",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector."
-		},
-
-
+	L
 {
 
 			"user": "PTV SPORTS",
