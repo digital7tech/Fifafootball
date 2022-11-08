@@ -1,56 +1,6 @@
 {
 	"hits": [
-		{
-
-
-			"user": "Napoli vs Empoli HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482682.m3u8?auth_key=1667949800-0-0-b6948e70437b2281ed62790a571f2621",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Napoli vs Empoli HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1667949860-0-0-76151e9c4eb4b8c73cf446ed9eb33609",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
 		
-	
-	{
-
-
-			"user": "Spezia vs Udinese SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1667951780-0-0-055fcfbd9bf7bd04b5078c5d506c19b8",
-			"type": "Italy - Serie A  ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},	
-		{
-
-
-			"user": "Spezia vs Udinese HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1667950880-0-0-742d997ffab6e116b9da0cb15210021f",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
-		{
-
-
-			"user": "Wolfsburg vs Borussia Dortmund SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667949740-0-0-83d4bd12c47d5cc94c3ec0fcc2c63e3c",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Wolfsburg vs Borussia Dortmund HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667949740-0-0-83d4bd12c47d5cc94c3ec0fcc2c63e3c",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
 		
 			{
 
@@ -180,7 +130,7 @@
 
 
 			"user": "Cremonese vs Milan HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667784140-0-0-76916bb9d1de4ca726d86998d0e57479",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667957540-0-0-63a7755d61802acce184a75934140a70",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
@@ -188,7 +138,7 @@
 
 
 			"user": "Cremonese vs Milan HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667784140-0-0-7863985ed9c111beb71f75cff987e14d",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667957540-0-0-63a7755d61802acce184a75934140a70",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
