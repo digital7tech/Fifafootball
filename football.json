@@ -1,41 +1,206 @@
 {
 	"hits": [
+		{
+
+
+			"user": "Napoli vs Empoli HD1",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667784140-0-0-76916bb9d1de4ca726d86998d0e57479",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Napoli vs Empoli HD2",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667784140-0-0-7863985ed9c111beb71f75cff987e14d",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
 		
 	
 	{
 
 
-			"user": "Rayo Vallecano vs Real Madrid SD",
+			"user": "Spezia vs Udinese SD",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667872220-0-0-87fea692749bd9062fc469b02c9a5af8",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
-		},	
-		
-			{
-
-
-			"user": "Rayo Vallecano vs Real Madrid HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667872220-0-0-6d98ea21adc640415571d8d807f249a0",
-			"type": "Spain - La Liga ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
-		},	
-			{
-
-
-			"user": "Rayo Vallecano vs Real Madrid HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-6892349.m3u8?auth_key=1667872280-0-0-4a1ccd27dff9f74ce5eeb61c8b28a25a",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
 		},	
 		{
 
 
-			"user": "Rayo Vallecano vs Real Madrid HD3",
-			"pageUrl": "https://moon.meta-scores.com/779850c046/779850c046@720p.m3u8",
+			"user": "Spezia vs Udinese HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667872220-0-0-87fea692749bd9062fc469b02c9a5af8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
+		},
+		
+		{
+
+
+			"user": "Wolfsburg vs Borussia Dortmund SD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123HD/123HD@456.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Wolfsburg vs Borussia Dortmund HD",
+			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663373776-0-0-b39a9eca88f9ae8de4c3fd2c21dbd29f",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		
+			{
+
+
+			"user": "Elche vs Girona HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667872220-0-0-6d98ea21adc640415571d8d807f249a0",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
 		},	
-	
+		
+		
+			{
+
+
+			"user": "Athletic Club vs Real Valladolid HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667872220-0-0-6d98ea21adc640415571d8d807f249a0",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
+		},	
+		
+		
+		
+		{
+
+
+			"user": "Bayern München vs Werder Bremen SD",
+			"pageUrl": "https://jq9sucdqmflivnt.vcdn.com.vn/123HD/123HD@456.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Bayern München vs Werder Bremen HD",
+			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663373776-0-0-b39a9eca88f9ae8de4c3fd2c21dbd29f",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		
+		{
+
+
+			"user": "Bayern München vs Werder Bremen HD",
+			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663373776-0-0-b39a9eca88f9ae8de4c3fd2c21dbd29f",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Bochum vs Borussia M'gladbach HD",
+			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663373776-0-0-b39a9eca88f9ae8de4c3fd2c21dbd29f",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Stuttgart vs Hertha BSC HD",
+			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663373776-0-0-b39a9eca88f9ae8de4c3fd2c21dbd29f",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+			
+	{
+
+
+			"user": "AFC Bournemouth vs Everton HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
+				
+	{
+
+
+			"user": "Leicester City vs Newport County HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
+				
+	{
+
+
+			"user": "Burnley vs Crawley Town HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
+				
+	{
+
+
+			"user": "Bristol City vs Lincoln City HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
+				
+	{
+
+
+			"user": "Stevenage vs Charlton Athletic HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
+		{
+
+
+			"user": "Brentford vs Gillinghamc HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
+		
+		{
+
+
+			"user": "Milton Keynes Dons vs Morecambe HD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "England - League Cup ⚽️ ",
+			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
+		},
+		{
+
+
+			"user": "Cremonese vs Milan HD1",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667784140-0-0-76916bb9d1de4ca726d86998d0e57479",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+			{
+
+
+			"user": "Cremonese vs Milan HD2",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667784140-0-0-7863985ed9c111beb71f75cff987e14d",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
+		},
+		{
+
+
+			"user": "Osasuna vs Barcelona HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667872220-0-0-6d98ea21adc640415571d8d807f249a0",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
+		},	
+		
 	
 {
 
