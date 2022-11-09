@@ -4,73 +4,6 @@
 		
 			
 		
-			{
-
-
-			"user": "Lecce vs Atalanta HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1668035181-0-0-2d46b8c7dde29ef139126d86895217b5",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Lecce vs Atalanta HD2",
-			"pageUrl": "http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-{
-
-
-			"user": "Lecce vs Atalanta HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1668035241-0-0-7fedcdc30389569382ffff5b0ef39176",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-
-		{
-
-
-			"user": "Sassuolo vs Roma HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668035060-0-0-efce01810c1a61cdb8541e4cfd3b8832",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Sassuolo vs Roma HD2",
-			"pageUrl": "http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		
-			{
-
-
-			"user": "Sassuolo vs Roma HD3",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668035120-0-0-a4580efe00452fa82c9016b3adc58706",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Köln vs Bayer Leverkusen SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668035120-0-0-8601e2bcffff7a3d6d423f6314c74276",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Köln vs Bayer Leverkusen HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1668035180-0-0-a3478bc9f111c0de9b09cd5e0726c3f1",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-			
 		
 		{
 
@@ -92,7 +25,7 @@
 
 
 			"user": "RB Leipzig vs Freiburg HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1668043580-0-0-eb7ffc6d53eb1ba70a930c6f494af906",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1668043760-0-0-896f8a74c20b579625d5e9b84f8b8508",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
