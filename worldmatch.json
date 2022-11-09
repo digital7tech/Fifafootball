@@ -1,91 +1,33 @@
 {
 	"hits": [
 		
-		
-			
-		
-			
-		
-		
-		{
-
-
-			"user": "Bayern München vs Werder Bremen SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667957720-0-0-e8f642409409ffd86099611ff3b27144",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Bayern München vs Werder Bremen HD",
-			"pageUrl": "https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663373776-0-0-b39a9eca88f9ae8de4c3fd2c21dbd29f",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		
-		
-		{
-
-
-			"user": "Bochum vs Borussia M'gladbach HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667957660-0-0-8fbc73103286e4dd9ee204c4de7c4636",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-		{
-
-
-			"user": "Stuttgart vs Hertha BSC HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667957780-0-0-75ef7d8095bdb10f6312cf16eb153765",
-			"type": "Germany - Bundesliga ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-		},
-			
-	{
-
-
-			"user": "AFC Bournemouth vs Everton HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1667957720-0-0-f610e6ffd0729a777173627fbda593e8",
-			"type": "England - League Cup ⚽️ ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-				
-	{
-
-
-			"user": "Leicester City vs Newport County HD",
-			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
-			"type": "England - League Cup ⚽️ ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-				
 	
-		{
+	{
 
 
-			"user": "Cremonese vs Milan HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1667957840-0-0-958d63f6ead59b6eb2371088333b6cb1",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-			{
-
-
-			"user": "Cremonese vs Milan HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1667957540-0-0-63a7755d61802acce184a75934140a70",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
-		},
-		{
-
-
-			"user": "Osasuna vs Barcelona HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1667958320-0-0-fcf0a86bae8a26114327a38d28f3aebf",
+			"user": "Rayo Vallecano vs Real Madrid SD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
 		},	
 		
+			{
+
+
+			"user": "Rayo Vallecano vs Real Madrid HD",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
+		},	
+			{
+
+
+			"user": "Rayo Vallecano vs Real Madrid HD2",
+			"pageUrl": "http://www.techsolpoint.com/fetch-json-data-using-volley-library-and-display-it-in-recyclerview%E2%80%8A-android-studio.html",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvNGLrHKlLzAXMpMLDm763jqB1OsjQMA4Yrm9Q-0x9QCwhJzSxOJ5F1wWEnQcZ0bQuB8&usqp=CAU"
+		},	
+	
 	
 {
 
