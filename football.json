@@ -157,23 +157,16 @@
 
 
 			"user": "Manchester City vs Chelsea HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482682.m3u8?auth_key=1668044480-0-0-e81326c23770f4c22a6c1ce404e0485f",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1668045380-0-0-7bd8f84d8f4daf71dd5e34794a253651",
 			"type": "England - League Cup ⚽️ ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
 		
+		
 		{
 
 
-			"user": "Manchester City vs Chelsea HD2 (ENG)",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-482682.m3u8?auth_key=1668044480-0-0-e81326c23770f4c22a6c1ce404e0485f",
-			"type": "England - League Cup ⚽️ ",
-			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
-		},
-		{
-
-
-			"user": "Manchester City vs Chelsea HD3 (ENG)",
+			"user": "Manchester City vs Chelsea HD2 ",
 			"pageUrl": "http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
 			"type": "England - League Cup ⚽️ ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
@@ -182,7 +175,7 @@
 
 
 			"user": "Liverpool vs Derby County SD",
-			"pageUrl": "https://moon.meta-scores.com/a84de816b7/a84de816b7@720p.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1668045200-0-0-8c9f8b685dd4fffd79855a4b1354ba40",
 			"type": "England - League Cup ⚽️ ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
@@ -191,7 +184,7 @@
 
 
 			"user": "Liverpool vs Derby County HD (ENG)",
-			"pageUrl": "http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"pageUrl": "https://moon.meta-scores.com/a84de816b7/a84de816b7@720p.m3u8",
 			"type": "England - League Cup ⚽️ ",
 			"webFormatUrl": "https://www.cfclassics.co/images/cups/england/leaguecup/english-league-cup-600x400.png"
 		},
