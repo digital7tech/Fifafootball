@@ -2,31 +2,7 @@
 	"hits": [
 		
 		
-		{
-
-
-			"user": "Hellas Verona vs Juventus SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1668121520-0-0-94286c91c392c8cf47535b40790e173f",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},	
-		
-		{
-
-
-			"user": "Hellas Verona vs Juventus HD1",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668121520-0-0-5aac7cdc30c939610f038dca05cc1ad3",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
-		{
-
-
-			"user": "Hellas Verona vs Juventus HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1668121581-0-0-0c04bd21d4e877be51d8f550bcfc3049",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
-		},
+	
 		
 		{
 
@@ -50,7 +26,7 @@
 
 
 			"user": "Lazio vs Monza SD",
-			"pageUrl": "http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1668131060-0-0-28b096b774ce7cdf9b6b0a6ea781a63f",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},	
@@ -59,7 +35,7 @@
 
 
 			"user": "Lazio vs Monza HD",
-			"pageUrl": "http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1668131060-0-0-28b096b774ce7cdf9b6b0a6ea781a63f",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
 		},
