@@ -5,64 +5,20 @@
 		
 
 		
-			{
-
-
-			"user": "Newcastle vs Chelsea SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668294681-0-0-e7bbb6482a3fe63b95f22b553c3cecf6",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Newcastle vs Chelsea HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1668294681-0-0-4fcc910984a34fef964555caf824b1b6",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		
-		{
-
-
-			"user": "Newcastle vs Chelsea HD2",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668294741-0-0-15b2530289856b4af99bedc00b5e82e6",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-
-		
-	
-		{
-
-
-			"user": "Newcastle vs Chelsea HD3",
-			"pageUrl": "https://moon.meta-scores.com/051b1d1e64/051b1d1e64@720p.m3u8",
-			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Lens vs Clermont SD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
 		
 		{
 
 
 			"user": "Wolves vs Arsenal SD",
-			"pageUrl": "http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668303140-0-0-d97acaa0d7b306eaaac0284f805aed5f",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
 		{
 
 
-			"user": "Wolves vs Arsenal HD1",
-			"pageUrl": "http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347",
+			"user": "Wolves vs Arsenal HD",
+			"pageUrl": "http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -70,7 +26,7 @@
 		{
 
 
-			"user": "Wolves vs Arsenal HD2",
+			"user": "Wolves vs Arsenal HD(ENG)",
 			"pageUrl": "http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347",
 			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
