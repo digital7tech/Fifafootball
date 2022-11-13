@@ -28,22 +28,24 @@
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_Serie_A_TIM_2021.svg/1200px-Logo_Serie_A_TIM_2021.svg.png"
 		},
+		
 		{
 
 
-			"user": "PSG vs Auxerre SD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"user": "PSG vs Auxerre HD1",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668361641-0-0-889b954f2ba074cbe66f4b05ae40aba3",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
 		{
 
 
-			"user": "PSG vs Auxerre HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"user": "PSG vs Auxerre SD HD2",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1668361641-0-0-7275d218172ba879d6b750592851d643",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
+		
 
 {
 
