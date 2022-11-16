@@ -49,8 +49,15 @@
 		},
 		{
 
-			"user": "Albania vs Italy",
-			"pageUrl": "http://golive.yn.lt/live/champions/01.m3u8 ",
+			"user": "Albania vs Italy SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-294127.m3u8?auth_key=1668642981-0-0-4415c37672bafee5b5d7c40ffa9a27f4",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+		{
+
+			"user": "Albania vs Italy HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-294127.m3u8?auth_key=1668642981-0-0-4415c37672bafee5b5d7c40ffa9a27f4",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
 		},
