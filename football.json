@@ -4,24 +4,11 @@
 		
 		
 	
-		{
-
-			"user": "Ghana vs Switzerland SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668702321-0-0-20dff13cf41d6edf23bbe96e98f92033",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
-		},
-		{
-
-			"user": "Ghana vs Switzerland HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1668702321-0-0-8baa4af9f557173994ca3889fd1456f4 ",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
-		},
+		
 		{
 
 			"user": "Japan vs Canada SD",
-			"pageUrl": "https://moon.meta-scores.com/720779a0fa/720779a0fa@720p.m3u8",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668715941-0-0-ec9c31c73ec6ab66618e21f8f4085dde",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
 		},
