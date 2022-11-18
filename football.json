@@ -5,16 +5,23 @@
 		
 	
 	
-		
 		{
 
-			"user": "Portugal vs Nigeria SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668734361-0-0-7526b1f56a755c391734c7e83f412164",
+			"user": "Belgium vs Egypt SD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668805401-0-0-893c923f0bb5c5a14eccad94801935d1",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
-		},{
+		},
+		{
 
-			"user": "Portugal vs Nigeria HD",
+			"user": "Belgium vs Egypt HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668805341-0-0-ce54e35d020af82093963632b5f136bd",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+		{
+
+			"user": "Bahrain vs Serbia",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1668734421-0-0-7cf1a63f830997014fe2897626f30ae9",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
