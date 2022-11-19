@@ -20,15 +20,29 @@
 		},
 		{
 
-			"user": "Turkey vs Czech Republic SD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668805341-0-0-ce54e35d020af82093963632b5f136bd",
+			"user": "Turkey vs Czech Republic HD1",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1668898161-0-0-288cf8a9575f6cea6ff04c48142aaa12",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
 		},
 		{
 
-			"user": "Turkey vs Czech Republic HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668805341-0-0-ce54e35d020af82093963632b5f136bd",
+			"user": "Turkey vs Czech Republic HD2",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1668898161-0-0-288cf8a9575f6cea6ff04c48142aaa12",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+		{
+
+			"user": "Kosovo vs Faroe Islands HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668898221-0-0-6e741f57140d2d808c7e7e39621dda0c",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+		{
+
+			"user": "Gibraltar vs Andorra HD",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-6892349.m3u8?auth_key=1668898281-0-0-7179946d5e09dee12aeb949090a6fc83",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
 		},
