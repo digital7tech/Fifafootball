@@ -5,46 +5,43 @@
 		
 		{
 
-			"user": "Slovakia vs Chile     🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1668968001-0-0-753ee4dda3469d4a5f480b1c2ff09da0",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+			"user": "Wolrd Cup Opening Ceremony 🔴 (ENG)",
+			"pageUrl": "http://5.182.229.90:8080/6521/index.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+	{
+
+			"user": "Wolrd Cup Opening Ceremony 🔴 ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668976761-0-0-9e4045df35771568757a37039e5198f4",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		
 		{
 
-			"user": "Norway vs Finland    🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1668971121-0-0-820b3a26c453c5f388c340e4347712fb",
-			"type": "Friendly ⚽️ ",
-			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
-		},
-		
-
-		
-		{
-
-			"user": "Qatar vs Ecuador SD        🔴",
+			"user": "Qatar vs Ecuador SD",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668976761-0-0-9e4045df35771568757a37039e5198f4",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 			{
 
-			"user": "Qatar vs Ecuador HD        🔴",
+			"user": "Qatar vs Ecuador HD ",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1668976821-0-0-4f83aecac31cde3e3898b06a49b0ef42",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 			{
 
-			"user": "Qatar vs Ecuador HD (ENG)  🔴",
+			"user": "Qatar vs Ecuador HD (ENG)  ",
 			"pageUrl": "https://6f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "Qatar vs Ecuador HD2        🔴",
+			"user": "Qatar vs Ecuador HD2        ",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668976882-0-0-cb8f0fc21080b1f8c23fe88e92565983",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
