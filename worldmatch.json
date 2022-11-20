@@ -5,7 +5,7 @@
 		
 		{
 
-			"user": "Sweden vs Algeria SD",
+			"user": "North Macedonia vs Azerbaijan",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-278165.m3u8?auth_key=1668906981-0-0-0945c4b56119102524379b594023bc9c",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
@@ -13,8 +13,89 @@
 		
 		{
 
-			"user": "Sweden vs Algeria HD2",
+			"user": "Norway vs Finland",
 			"pageUrl": "https://moon.meta-scores.com/b6abfd7490/b6abfd7490@720p.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+		{
+
+			"user": "South Africa vs Angola",
+			"pageUrl": "https://moon.meta-scores.com/b6abfd7490/b6abfd7490@720p.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+
+		{
+
+			"user": "Luxembourg vs Bulgaria",
+			"pageUrl": "https://moon.meta-scores.com/b6abfd7490/b6abfd7490@720p.m3u8",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+
+
+{
+
+			"user": "Slovenia vs Montenegro",
+			"pageUrl": "httpsfd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+		{
+
+			"user": "Qatar vs Ecuador SD",
+			"pageUrl": "https://6f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+			{
+
+			"user": "Qatar vs Ecuador HD",
+			"pageUrl": "https://6f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+			{
+
+			"user": "Qatar vs Ecuador HD (ENG)",
+			"pageUrl": "https://6f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Qatar vs Ecuador HD2",
+			"pageUrl": "https://6f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+	
+		{
+
+			"user": "Malta vs Ireland Republic",
+			"pageUrl": "ht11decd280c96f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+		{
+
+			"user": "Hungary vs Greece",
+			"pageUrl": "ht11decd280c96f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+		{
+
+			"user": "Austria vs Italy SD",
+			"pageUrl": "ht11decd280c96f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
+			"type": "Friendly ⚽️ ",
+			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
+		},
+		{
+
+			"user": "Austria vs Italy HD",
+			"pageUrl": "ht11decd280c96f00fd62c13a16119ac933544b2bd5762f2cd72b078ada8f950a1f2b2799684ea637f9f4e51beb38264e509342a2017dd",
 			"type": "Friendly ⚽️ ",
 			"webFormatUrl": "https://www.seekpng.com/png/detail/379-3792934_fifa-international-friendlies-fifa-logo.png"
 		},
@@ -22,7 +103,7 @@
 
 			"user": "PTV SPORTS",
 			"pageUrl": "http://golive.yn.lt/live/champions/01.m3u8 ",
-			"type": "FOOTBALL 🔴  ",
+			"type": "FOOTBALL 🔴 ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
 	]
