@@ -12,25 +12,38 @@
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		
-		
 		{
 
-			"user": "Qatar vs Ecuador HD(ENG)      🔴 ",
+			"user": "Qatar vs Ecuador SD1(ENG)      🔴 ",
+			"pageUrl": "https://asdfghtiscali.s3-accelerate.amazonaws.com/fifa_480p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+{
+
+			"user": "Qatar vs Ecuador SD2(ENG)      🔴 ",
+			"pageUrl": "https://asdfghtiscali.s3-accelerate.amazonaws.com/fifa_240p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Qatar vs Ecuador HD1(ENG)      🔴 ",
 			"pageUrl": "http://5.182.229.90:8080/6521/index.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 			{
 
-			"user": "Qatar vs Ecuador SD(ENG)      🔴 ",
-			"pageUrl": "https://asdfghtiscali.s3-accelerate.amazonaws.com/fifa_480p30.m3u8",
+			"user": "Qatar vs Ecuador HD2(ENG)      🔴 ",
+			"pageUrl": "https://asdfghtiscali.s3-accelerate.amazonaws.com/fifa_720p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 			
 		{
 
-			"user": "Qatar vs Ecuador HD2      🔴  ",
+			"user": "Qatar vs Ecuador HD3      🔴  ",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668976882-0-0-cb8f0fc21080b1f8c23fe88e92565983",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
