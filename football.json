@@ -13,40 +13,35 @@
 		},
 		{
 
+			"user": "USA vs Wales HD1 (ENG)           🔴",
+			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
 			"user": "USA vs Wales SD1 (ENG)          🔴",
-			"pageUrl": "https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main_480p30.m3u8",
+			"pageUrl": "https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 {
 
 			"user": "USA vs Wales SD2 (ENG)          🔴",
-			"pageUrl": "https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8",
+			"pageUrl": "https://denisrey204.s3-accelerate.amazonaws.com/iran_240p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		
 		{
 
-			"user": "USA vs Wales HD1 (ENG)          🔴",
-			"pageUrl": "https://yd6q252y3dhhjy.data.mediastore.eu-central-1.amazonaws.com/livea/main_720p30.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
 			"user": "USA vs Wales HD2 (ENG)          🔴",
-			"pageUrl": "https://denisrey204.s3-accelerate.amazonaws.com/iran_720p30.m3u8",
+			"pageUrl": "https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
-		{
-
-			"user": "USA vs Wales HD3(ENG)           🔴",
-			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
+		
+		
 		
 {
 
