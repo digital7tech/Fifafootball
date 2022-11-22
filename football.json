@@ -7,28 +7,28 @@
 		
 		{
 
-			"user": "France vs Australia SD          🔴",
+			"user": "Morocco vs Croatia SD          ",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669163542-0-0-64e45400d80fccc4f224c43dad5a146d",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "France vs Australia HD1 (ENG)     🔴",
+			"user": "Morocco vs Croatia SD (ENG)     ",
 			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "France vs Australia HD2 (ENG)      🔴",
+			"user": "France vs Australia HD (ENG)      ",
 			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_720p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 {
 
-			"user": "France vs Australia SD1 (ENG)      🔴",
+			"user": "France vs Australia HD2 (ENG)  ",
 			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
@@ -36,19 +36,123 @@
 		
 		{
 
-			"user": "France vs Australia SD2 (ENG)      🔴",
+			"user": "France vs Australia HD3",
 			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_240p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		
-	{
+{
 
-			"user": "France vs Australia HD3           🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669163722-0-0-a7ec3b2d5ecaf88dc8ed239e9c156cdc",
+			"user": "Germany vs Japan SD          ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669163542-0-0-64e45400d80fccc4f224c43dad5a146d",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
+		{
+
+			"user": "Germany vs Japan SD (ENG)     ",
+			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Germany vs Japan HD (ENG)      ",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_720p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+{
+
+			"user": "Germany vs Japan HD2 (ENG)  ",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		
+		{
+
+			"user": "Germany vs Japan HD3",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_240p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		
+		{
+
+			"user": "Spain vs Costa Rica SD          ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669163542-0-0-64e45400d80fccc4f224c43dad5a146d",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Spain vs Costa Rica SD (ENG)     ",
+			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Spain vs Costa Rica HD (ENG)      ",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_720p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+{
+
+			"user": "Spain vs Costa Rica HD2 (ENG)  ",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		
+		{
+
+			"user": "Spain vs Costa Rica HD3",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_240p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		
+		{
+
+			"user": "Belgium vs Canada SD          ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669163542-0-0-64e45400d80fccc4f224c43dad5a146d",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Belgium vs Canada SD (ENG)     ",
+			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Belgium vs Canada HD (ENG)      ",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_720p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+{
+
+			"user": "Belgium vs Canada HD2 (ENG)  ",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		
+		{
+
+			"user": "Belgium vs Canada HD3",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_240p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		
 		
 		
 {
