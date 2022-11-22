@@ -4,76 +4,48 @@
 		
 	
 		
-		{
-
-			"user": "Mexico vs Poland SD                🔴 ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669153042-0-0-a15e0cb6cb4416e7c9921191483714bc",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
 		
-	{
+		{
 
-			"user": "Mexico vs Poland HD (ENG)          🔴 ",
+			"user": "France vs Australia SD          🔴",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669163542-0-0-64e45400d80fccc4f224c43dad5a146d",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "France vs Australia HD1 (ENG)     🔴",
 			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "Mexico vs Poland HD1 (ENG)           🔴 ",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Mexico vs Poland HD2                🔴 ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669153042-0-0-f434593c0774d6c88863f5fd219ef1d0",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "France vs Australia SD ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669076602-0-0-59a40822b0d1c21e65fbd162e175ce57",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "France vs Australia SD (ENG) ",
-			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "France vs Australia SD2 (ENG)",
-			"pageUrl": "https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8",
+			"user": "France vs Australia HD2 (ENG)      🔴",
+			"pageUrl": "https://hdstreamss.club/live/ch1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMiA2OjM3OjM2IFBNJmhhc2hfdmFsdWU9SzAwRmQrOFB1ZzltQlNaK2RDZ0RaQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjExMi41Ni4xMTYmc3RybV9sZW49NQ==",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 {
 
-			"user": "France vs Australia HD1 (ENG)",
-			"pageUrl": "https://denisrey204.s3-accelerate.amazonaws.com/iran_240p30.m3u8",
+			"user": "France vs Australia SD1 (ENG)      🔴",
+			"pageUrl": "https://d1oercrdt4qbyi.cloudfront.net/out/v1/a24e45fe05444d1ca3ece02e71574ac1/index_3.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		
 		{
 
-			"user": "France vs Australia HD2 (ENG)",
-			"pageUrl": "https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8",
+			"user": "France vs Australia SD2 (ENG)      🔴",
+			"pageUrl": "https://d1oercrdt4qbyi.cloudfront.net/out/v1/a24e45fe05444d1ca3ece02e71574ac1/index_4.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		
 	{
 
-			"user": "France vs Australia HD3",
-			"pageUrl": "https://denisrey204.s3-accelerate.amazonaws.com/iran_480p30.m3u8",
+			"user": "France vs Australia HD3           🔴",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669163722-0-0-a7ec3b2d5ecaf88dc8ed239e9c156cdc",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
