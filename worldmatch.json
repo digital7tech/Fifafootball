@@ -4,87 +4,40 @@
 		
 	
 	
-{
 
-			"user": "Germany vs Japan SD1           🔴 ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669228462-0-0-5d64f60c855c1b8e6d39132bdcbc94a9",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-
-		
-{
-
-			"user": "Germany vs Japan SD2 (ENG)     🔴 ",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-	
 		{
 
-			"user": "Germany vs Japan HD1 (ENG)         🔴 ",
-			"pageUrl": "https://wswanata.azureedge.net/live/FS1/playlist.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-{
-
-			"user": "Germany vs Japan HD2 (ENG)         🔴 ",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone2_720p30.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-
-{
-
-			"user": "Germany vs Japan HD3 (ENG)         🔴 ",
-			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		
-		{
-
-			"user": "Germany vs Japan HD4                🔴 ",
-			"pageUrl": "https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		
-		{
-
-			"user": "Spain vs Costa Rica SD          ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669163542-0-0-64e45400d80fccc4f224c43dad5a146d",
+			"user": "Spain vs Costa Rica SD         🔴  ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669239262-0-0-cb5c8227112abfaf0939b1042a1ba634",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "Spain vs Costa Rica SD (ENG)     ",
-			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Spain vs Costa Rica HD (ENG)      ",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_720p30.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-{
-
-			"user": "Spain vs Costa Rica HD2 (ENG)  ",
+			"user": "Spain vs Costa Rica SD (ENG)    🔴  ",
 			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
+		{
+
+			"user": "Spain vs Costa Rica HD (ENG)     🔴  ",
+			"pageUrl": "https://wswanata.azureedge.net/live/FOX/chunks.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+{
+
+			"user": "Spain vs Costa Rica HD2 (ENG)     🔴 ",
+			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
 		
 		{
 
-			"user": "Spain vs Costa Rica HD3",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_240p30.m3u8",
+			"user": "Spain vs Costa Rica HD3          🔴 ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-535588.m3u8?auth_key=1669239262-0-0-c178eff8fc2397302fc595e94e3cd53a",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
