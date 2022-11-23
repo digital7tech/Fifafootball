@@ -16,7 +16,7 @@
 {
 
 			"user": "Germany vs Japan SD2            🔴 ",
-			"pageUrl": "http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8",
+			"pageUrl": "https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669227691-0-0-67efc14b0550b843be3456e458ef0fcc",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
@@ -24,13 +24,21 @@
 		{
 
 			"user": "Germany vs Japan HD1 (ENG)         🔴 ",
-			"pageUrl": "http://P135@89.187.175.143/3056/index.m3u8",
+			"pageUrl": "https://wswanata.azureedge.net/live/FS1/playlist.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 {
 
 			"user": "Germany vs Japan HD2 (ENG)         🔴 ",
+			"pageUrl": "http://P135@89.187.175.143/3056/index.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+
+{
+
+			"user": "Germany vs Japan HD3 (ENG)         🔴 ",
 			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
@@ -39,7 +47,7 @@
 		{
 
 			"user": "Germany vs Japan HD3                🔴 ",
-			"pageUrl": "https://acdn.p2pcdn.xyz/xoilac/channel50.m3u8?auth_key=3000001669207321-0-0-e62c3729f7765d89b28df7b5b1abc4e1",
+			"pageUrl": "https://s2.wecast.to:8443/hls/gYrXX6DRBsfx/index.m3u8?st=LC4aEArPXLdiaPjN5aj6_Q&e=1669217281",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
