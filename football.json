@@ -12,40 +12,26 @@
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
-		
-		{
-
-			"user": "Morocco vs Croatia HD (ENG)     🔴",
-			"pageUrl": "http://P135@89.187.175.143/3056/index.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
 		{
 
 			"user": "Morocco vs Croatia SD (ENG)     🔴",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_240p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
-{
+		{
 
-			"user": "Morocco vs Croatia HD2 (ENG)     🔴",
-			"pageUrl": "http://89.187.175.143:80/3038/index.m3u8",
+			"user": "Morocco vs Croatia HD (ENG)     🔴",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		
+
 		{
 
-			"user": "Morocco vs Croatia HD3 (ENG)     🔴",
-			"pageUrl": "http://89.187.175.143/3056/mpegts",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Morocco vs Croatia HD4          🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1669217722-0-0-1dc2c5d418e733e7de564145b32f5eff",
+			"user": "Morocco vs Croatia HD2          🔴",
+			"pageUrl": "http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
