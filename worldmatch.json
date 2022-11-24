@@ -8,87 +8,50 @@
 		
 		{
 
-			"user": "Switzerland vs Cameroon SD             🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669305082-0-0-8032763d54ea5b1a45033eac440a7972",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Switzerland vs Cameroon SD (ENG)       🔴",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Switzerland vs Cameroon HD (ENG)        🔴 ",
-			"pageUrl": "https://wswanata.azureedge.net/live/FOX/chunks.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-{
-
-			"user": "Switzerland vs Cameroon HD2 (ENG)            🔴",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone2_720p30.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		
-		{
-
-			"user": "Switzerland vs Cameroon HD3              🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1669368095-0-0-2111f798b5b8b3413efd5888da4eebe3",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Switzerland vs Cameroon HD4              🔴",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428437_lhd.flv?auth_key=1669368646-0-0-4908630a15fb6b25a24c373dae17c79f",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		
-		{
-
-			"user": "Uruguay vs Korea Republic SD  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669250542-0-0-14943561255b8aa6f45163647f1ff986",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Uruguay vs Korea Republic SD (ENG) ",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Uruguay vs Korea Republic HD (ENG)  ",
-			"pageUrl": "https://wswanata.azureedge.net/live/FOX/chunks.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-{
-
-			"user": "Uruguay vs Korea Republic HD2 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1669315134-0-0-aca7211abe86e223faca11c0bedff26f",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		
-		{
-
-			"user": "Uruguay vs Korea Republic HD3 ",
+			"user": "Uruguay vs Korea Republic SD         🔴",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669250542-0-0-69660af541dcc10eeb73b05496a84062",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "Uruguay vs Korea Republic HD4  ",
+			"user": "Uruguay vs Korea Republic SD (ENG)       🔴",
+			"pageUrl": "https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Uruguay vs Korea Republic SD2 (ENG)       🔴  ",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Uruguay vs Korea Republic HD1 (ENG)       🔴  ",
+			"pageUrl": "https://wswanata.azureedge.net/live/FS1/chunks.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+{
+
+			"user": "Uruguay vs Korea Republic HD2           🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936822_lhd.flv?auth_key=1669378792-0-0-52fa630afb0380f38aa3f94347b656a3",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		
+		{
+
+			"user": "Uruguay vs Korea Republic HD3           🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428439_lhd.flv?auth_key=1669378829-0-0-8dcfbf5f6c2d6a0d59e4b1f4d249afc7",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Uruguay vs Korea Republic HD4           🔴 ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428419_lhd.flv?auth_key=1669314767-0-0-dc007392c4d30ee612aad43fc94db1f8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
