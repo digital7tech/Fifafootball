@@ -27,14 +27,22 @@
 		{
 
 			"user": "Wales vs Iran HD (ENG)",
-			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
+			"pageUrl": "http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
-		
+
+
+	{
+
+			"user": "Wales vs Iran HD2 (ENG)",
+			"pageUrl": "https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},	
 {
 
-			"user": "Wales vs Iran HD2  ",
+			"user": "Wales vs Iran HD3  ",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669336702-0-0-14f422e28dd41285d2580b7e46adfc2c",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
@@ -42,14 +50,14 @@
 		
 		{
 
-			"user": "Wales vs Iran HD3   ",
+			"user": "Wales vs Iran HD4   ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1669453817-0-0-b8badccd4059a3370db3cfb663a545c1",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
  
-			"user": "Wales vs Iran HD4  ",
+			"user": "Wales vs Iran HD5  ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428429_lhd.flv?auth_key=1669450809-0-0-8606dd872d41302ea68d2d9a5795a47a",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
@@ -72,7 +80,7 @@
 		{
 
 			"user": "Qatar vs Senegal HD (ENG) ",
-			"pageUrl": "https://wswanata.azureedge.net/live/FOX/chunks.m3u8",
+			"pageUrl": "http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
