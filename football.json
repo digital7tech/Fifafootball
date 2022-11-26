@@ -8,73 +8,53 @@
 		
 		
 		
-	{
+	
+		{
 
-			"user": "France vs Denmark SD             🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669498102-0-0-bd45ac39343d7cab4f485ea6f4d54b9f",
+			"user": "Argentina vs Mexico SD            🔴  ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669507642-0-0-c82c395b8018ed645fc87dc145c99df3",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "France vs Denmark SD (ENG)       🔴 ",
-			"pageUrl": "https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8",
+			"user": "Argentina vs Mexico SD (ENG)       🔴          ",
+			"pageUrl": "https://emoser968.s3-accelerate.amazonaws.com/main_480.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "France vs Denmark HD(ENG)        🔴 ",
+			"user": "Argentina vs Mexico HD(ENG)       🔴           ",
 			"pageUrl": "https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
+
+			"user": "Argentina vs Mexico HD2 (ENG)       🔴          ",
+			"pageUrl": "https://emoser968.s3-accelerate.amazonaws.com/main_720.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
  
-			"user": "France vs Denmark HD2             🔴 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_649422_lhd.flv?auth_key=1669561780-0-0-14a9181fdd396e0e8274831e80e1186d",
+			"user": "Argentina vs Mexico HD3           🔴                ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_936822_lhd.flv?auth_key=1669571931-0-0-58eb914c54877d5b893e256a70ea0209",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 {
 
-			"user": "France vs Denmark HD3            🔴",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669498102-0-0-ff9082bc1d42a48201678e33680b8b3a",
+			"user": "Argentina vs Mexico HD4           🔴                 ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669508122-0-0-1066c331493516d8b01418a59f62d79d",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},	
 		{
 
-			"user": "Argentina vs Mexico SD   ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669477642-0-0-c75bb025b8bbf0b59bfe065172f462a8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Argentina vs Mexico SD (ENG)          ",
-			"pageUrl": "https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Ts2.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Argentina vs Mexico HD(ENG)           ",
-			"pageUrl": "https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
- 
-			"user": "Argentina vs Mexico HD2                ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_649422_lhd.flv?auth_key=1669540880-0-0-c3cd01ae42c37d86ed7a2d768ff654bd",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-{
-
-			"user": "Argentina vs Mexico HD3                 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428408_lhd.flv?auth_key=1669540590-0-0-10e7c612bac2e58bffde67d5a51b94c1",
+			"user": "Argentina vs Mexico HD5           🔴                 ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1669571846-0-0-8717516c4779a0694287df33544e9d25",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},	
