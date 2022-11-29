@@ -1,144 +1,88 @@
 {
 	"hits": [
 		
+		
 		{
 
-			"user": "Netherlands vs Qatar SD                           🔴             ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669753882-0-0-4cfa0bc7c7180f876b23cc771a33472f",
+			"user": "Wales vs England SD                          🔴                                      ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669767622-0-0-dc3a1f8581121dbb2ad86720c7a30145",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "Netherlands vs Qatar SD (ENG)                     🔴            ",
+			"user": "Wales vs England SD (ENG)                    🔴                                   ",
 			"pageUrl": "https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "Netherlands vs Qatar HD(ENG)                      🔴              ",
+			"user": "Wales vs England HD (ENG)                     🔴                                          ",
+			"pageUrl": "https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Wales vs England HD2 (ENG)                     🔴                                          ",
 			"pageUrl": "https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
  
-			"user": "Netherlands vs Qatar HD2                          🔴                  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1669818291-0-0-4de6be27bca6c77a89de00bb9884f36f",
+			"user": "Wales vs England HD2                         🔴                                                    ",
+			"pageUrl": "https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 {
 
-			"user": "Netherlands vs Qatar HD3                         🔴               ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428419_lhd.flv?auth_key=1669818583-0-0-e029a8b571d899b67e66319b9d79f345",
+			"user": "Wales vs England HD3                         🔴                                                ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1669739547-0-0-6d6b20a7985458557ba0f017f55e03a7",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},	
-		
 		{
 
-			"user": "Ecuador vs Senegal SD                           🔴             ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669752442-0-0-d5722b1a5630930bf309e4cf24b6cf0d",
+			"user": "Iran vs USA SD                               🔴                                          ",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1669767682-0-0-98777b52a2933551a02cf7de2a675b49",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "Ecuador vs Senegal SD (ENG)                     🔴            ",
+			"user": "Iran vs USA SD (ENG)                         🔴                                           ",
 			"pageUrl": "https://murthyneeraj231.s3.amazonaws.com/worldcup2_480.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
 
-			"user": "Ecuador vs Senegal HD(ENG)                      🔴              ",
+			"user": "Iran vs USA HD (ENG)                           🔴                                     ",
+			"pageUrl": "https://murthyneeraj231.s3.amazonaws.com/worldcup2_720.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Iran vs USA HD2 (ENG)                           🔴                                     ",
 			"pageUrl": "https://murthyneeraj231.s3.amazonaws.com/worldcup2_720.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 		{
  
-			"user": "Ecuador vs Senegal HD2                          🔴                  ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1669817873-0-0-eb386b334f5001399c0dda2fc6c88b26",
+			"user": "Iran vs USA HD2                               🔴                                            ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1669832717-0-0-498566192f030dfa4e7f81bedd90118a",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 {
 
-			"user": "Ecuador vs Senegal HD3                         🔴               ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905568_lhd.flv?auth_key=1669818914-0-0-04054ab0b49349092226a027621dd317",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},	
-		{
-
-			"user": "Wales vs England SD                                 ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669681822-0-0-c788846758cbe92adb0f4ad929fb5d28",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Wales vs England SD (ENG)                            ",
-			"pageUrl": "https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Wales vs England HD(ENG)                                   ",
-			"pageUrl": "https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
- 
-			"user": "Wales vs England HD2                                            ",
-			"pageUrl": "https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-{
-
-			"user": "Wales vs England HD3                                         ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1669739547-0-0-6d6b20a7985458557ba0f017f55e03a7",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},	
-		{
-
-			"user": "Iran vs USA SD                                  ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669681822-0-0-c788846758cbe92adb0f4ad929fb5d28",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Iran vs USA SD (ENG)                                    ",
-			"pageUrl": "https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
-
-			"user": "Iran vs USA HD(ENG)                             ",
-			"pageUrl": "https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-		{
- 
-			"user": "Iran vs USA HD2                                       ",
-			"pageUrl": "https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
-		},
-{
-
-			"user": "Iran vs USA HD3                                       ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1669739547-0-0-6d6b20a7985458557ba0f017f55e03a7",
+			"user": "Iran vs USA HD3                               🔴                                              ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1669832266-0-0-0be976cbb44a540999983771c58cdaf7",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},	
