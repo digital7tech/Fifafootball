@@ -4,7 +4,7 @@
 		
 		{
 
-			"user": "Tunisia vs France SD    ",
+			"user": "Tunisia vs France SD                   🔴",
 			"pageUrl": "https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669840223-0-0-81f00f376bfaa1b4ae0615bf49f04169",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
@@ -12,29 +12,42 @@
 		
 		{
 
-			"user": "Tunisia vs France HD (ENG)   ",
+			"user": "Tunisia vs France SD (ENG)              🔴 ",
+			"pageUrl": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
+		{
+
+			"user": "Tunisia vs France HD (ENG)              🔴   ",
 			"pageUrl": "https://playing.tunnelcdnsw.net/live/fs1us_720p/index.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
-		
+		{
+
+			"user": "Tunisia vs France HD2 (ENG)             🔴   ",
+			"pageUrl": "https://wswanata.azureedge.net/live/FS1/chunks.m3u8",
+			"type": "FIFA World Cup ⚽️ ",
+			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
+		},
 		{
  
-			"user": "Tunisia vs France HD3   ",
+			"user": "Tunisia vs France HD3                   🔴",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831956_lhd.flv?auth_key=1669905196-0-0-45696dd685e214ae9b82a1e505733736",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 {
 
-			"user": "Tunisia vs France HD4           ",
+			"user": "Tunisia vs France HD4                    🔴 ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_649422_lhd.flv?auth_key=1669904068-0-0-442a1f07905e4ea0d234276318c750c5",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},	
 		{
 
-			"user": "Australia vs Denmark SD           ",
+			"user": "Australia vs Denmark SD                   🔴        ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_866196_lhd.flv?auth_key=1669898478-0-0-d26a13cd9c1577b4a9a595f0cecc91f5",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
@@ -42,7 +55,7 @@
 		
 		{
 
-			"user": "Australia vs Denmark HD (ENG)      ",
+			"user": "Australia vs Denmark HD (ENG)             🔴    ",
 			"pageUrl": "https://playing.smoothlikebutterstream.com/live/fs2us_720p/index.m3u8",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
@@ -50,14 +63,14 @@
 		
 		{
  
-			"user": "Australia vs Denmark HD3      ",
+			"user": "Australia vs Denmark HD3                  🔴   ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1669895567-0-0-10d26f9969ed0d8cfca1f3fa7a487534",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
 		},
 {
 
-			"user": "Australia vs Denmark HD4       ",
+			"user": "Australia vs Denmark HD4                  🔴     ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428419_lhd.flv?auth_key=1669905032-0-0-31d7941a161b298893a6f2154dd1ef3e",
 			"type": "FIFA World Cup ⚽️ ",
 			"webFormatUrl": "https://media.premiumtimesng.com/wp-content/files/2022/07/Qatar-2022-Logo.jpg"
