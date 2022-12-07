@@ -20,28 +20,6 @@
 	
 		{
 
-			"user": "Internazionale vs Salzburg SD                  🔴     ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1670517241-0-0-5c9bce2d847ef50bb05c2a017b51fdf3",
-			"type": "Club Friendly ⚽️ ",
-			"webFormatUrl": "https://punditfeed.com/wp-content/uploads/2022/12/Inter_Milan_vs_Salzburg-removebg-preview.png"
-		},
-		
-		{
-
-			"user": "Internazionale vs Salzburg HD                 🔴     ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1670454863-0-0-f80d617b164a8f47099439220b33829f",
-			"type": "Club Friendly ⚽️ ",
-			"webFormatUrl": "https://punditfeed.com/wp-content/uploads/2022/12/Inter_Milan_vs_Salzburg-removebg-preview.png"
-		},
-		{
-
-			"user": "Internazionale vs Salzburg HD2                  🔴     ",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1670454923-0-0-2d4e9bd1b5070eb8276341972545242a",
-			"type": "Club Friendly ⚽️ ",
-			"webFormatUrl": "https://punditfeed.com/wp-content/uploads/2022/12/Inter_Milan_vs_Salzburg-removebg-preview.png"
-		},
-		{
-
 			"user": "Antalyaspor vs Napoli HD                        🔴   ",
 			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1670518755-0-0-8784b16d44a7aef4aa738bddf043b243",
 			"type": "Club Friendly ⚽️ ",
@@ -57,7 +35,14 @@
 		{
 
 			"user": "Cádiz vs Manchester United HD (ENG)             🔴              ",
-			"pageUrl": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8",
+			"pageUrl": "https://playing.smoothlikebutterstream.com/live/mutv_720p/index.m3u8",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://cdn.realsport101.com/images/ncavvykf/realsport-production/64a1ff76d9111f73650ceef98ad7c8ea7e7f23d6-1280x720.png?rect=0,0,1279,720&w=700&h=394&dpr=2"
+		},
+		{
+
+			"user": "Cádiz vs Manchester United HD2 (ENG)            🔴              ",
+			"pageUrl": "https://playing.smoothlikebutterstream.com/live/mutv/index.m3u8",
 			"type": "Club Friendly ⚽️ ",
 			"webFormatUrl": "https://cdn.realsport101.com/images/ncavvykf/realsport-production/64a1ff76d9111f73650ceef98ad7c8ea7e7f23d6-1280x720.png?rect=0,0,1279,720&w=700&h=394&dpr=2"
 		},
