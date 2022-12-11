@@ -23,65 +23,98 @@
 		
 	
 	
-		{
-
-			"user": "England vs France SD                                🔴                           ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_649422_lhd.flv?auth_key=1670778804-0-0-dac5a8aafbdbc7ffac431c77bbb511b8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"
-		},
 		
-		{
-
-			"user": "England vs France HD1 (ENG)                         🔴                        ",
-			"pageUrl": "https://playing.whydontyoustreamwme.com/live/fs1us_720p/index.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"
-		},
-		{
-
-			"user": "England vs France HD2 (ENG)                         🔴                    ",
-			"pageUrl": "https://playing.whydontyoustreamwme.com/live/itv1uk/index.m3u8",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"
-		},
-		
-	
-
-		{
-
-			"user": "England vs France HD3                               🔴                        ",
-			"pageUrl": "https://yytcpull.gdsth.com/live/stream-558696.m3u8?txSecret=b8528746dc86fcb7e13a12fd00b04940&txTime=639622a1",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"
-		},
-		{
-
-			"user": "England vs France HD4                               🔴                        ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_778167_lhd.flv?auth_key=1670776345-0-0-b2c6fd73c44026781761bc9e8481ab95",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"
-		},
-		{
-
-			"user": "England vs France HD5                               🔴                 ",
-			"pageUrl": "https://yytcpull.gdsth.com/live/stream-558696.m3u8?txSecret=b8528746dc86fcb7e13a12fd00b04940&txTime=639622a1",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"
-		},
 {
 
-			"user": "England vs France HD6                               🔴                 ",
-			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
-			"type": "FIFA World Cup ⚽️ ",
-			"webFormatUrl": "https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg"
+			"user": "Queens Park Rangers vs Burnley                              🔴                 ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862972_lhd.flv?auth_key=1670849044-0-0-6658b57fa785a0e51051e39c7f353069",
+			"type": "England - Championship ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/EFL_Championship-en.png"
 		},
 		
-		
+	{
+
+			"user": "Liverpool vs Lyon SD                           ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://backend.liverpoolfc.com/sites/default/files/styles/xl/public/acquiadam/2022-12/liverpool-v-lyon-live-promo-07122022.png?itok=4pU6TbjI"
+		},	
 			
 		
 		
+	{
 
+			"user": "Liverpool vs Lyon HD (ENG)                          ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://backend.liverpoolfc.com/sites/default/files/styles/xl/public/acquiadam/2022-12/liverpool-v-lyon-live-promo-07122022.png?itok=4pU6TbjI"
+		},	
+		{
+
+			"user": "Chelsea vs Aston Villa SD                           ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://i2-prod.football.london/incoming/article17363300.ece/ALTERNATES/s1200/0_Chelsea-Aston-Villa.jpg"
+		},	
+			
+		
+		
+	{
+
+			"user": "Chelsea vs Aston Villa HD (ENG)                          ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://i2-prod.football.london/incoming/article17363300.ece/ALTERNATES/s1200/0_Chelsea-Aston-Villa.jpg"
+		},
+{
+
+			"user": "Sampdoria vs TS Galaxy                           ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://image.discovery.indazn.com/eu/v2/eu/image?id=1226759749437_image-header_pIt_1670492904000&quality=70"
+		},
+		{
+
+			"user": "Crystal Palace vs Napoli SD                           ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://image.discovery.indazn.com/eu/v2/eu/image?id=1223585861336_image-header_pIt_1670240648000&quality=70"
+		},	
+			
+		
+		
+	{
+
+			"user": "Crystal Palace vs Napoli HD (ENG)                          ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://image.discovery.indazn.com/eu/v2/eu/image?id=1223585861336_image-header_pIt_1670240648000&quality=70"
+		},
+		
+		{
+
+			"user": "Sassuolo vs Olympique Marseille                          ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://api.sofascore.app/api/v1/event/10928254/share-image/16x9"
+		},
+		
+		
+		{
+
+			"user": "Benfica vs Sevilla                          ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://api.sofascore.app/api/v1/event/10914372/share-image/16x9"
+		},
+		
+		{
+
+			"user": "Athletic Club vs Guadalajara                          ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905566_lhd.flv?auth_key=1670784540-0-0-140c62e9ba5dcf716229a9ca695e27cb",
+			"type": "Club Friendly ⚽️ ",
+			"webFormatUrl": "https://api.sofascore.app/api/v1/event/10888438/share-image/16x9"
+		},
 {
 
 			"user": "PTV SPORTS",
