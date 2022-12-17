@@ -38,17 +38,11 @@
 		},
 		
 		
-		{
-
-			"user": "Napoli vs Villareal SD          🔴",
-			"pageUrl": "https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=6e8b4504c48ed361bacbb2492fc0d90d&txTime=639e0e8d ",
-			"type": "Club Friendly ",
-			"webFormatUrl": "https://api.sofascore.app/api/v1/event/10934727/share-image/16x9"
-		},
+		
 		{
 
 			"user": "Napoli vs Villareal HD          🔴",
-			"pageUrl": "https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=6e8b4504c48ed361bacbb2492fc0d90d&txTime=639e0e8d ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_866196_lhd.flv?auth_key=1671390416-0-0-3ff8c6a76bce99380906611f281fbe32",
 			"type": "Club Friendly ",
 			"webFormatUrl": "https://api.sofascore.app/api/v1/event/10934727/share-image/16x9"
 		},
