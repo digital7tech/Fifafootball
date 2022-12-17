@@ -5,50 +5,56 @@
 	
 {
 
-			"user": "Manchester City vs Girona SD",
-			"pageUrl": "https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=6e8b4504c48ed361bacbb2492fc0d90d&txTime=639e0e8d ",
-			"type": "Club Friendly 🔴 ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPklUUJQltLiw-pt9ziIxlBz90-U6phX9smg&usqp=CAU"
+			"user": "Arsenal vs Juventus SD          🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1671383165-0-0-46978b7e84eb54eb7563fde080ba27fe ",
+			"type": "Club Friendly ",
+			"webFormatUrl": "https://footballia.net/cache/matches/bcc3e9d5ab5944ea6d98322f3a4a010e.png"
 		},	
 		
 	
 {
 
-			"user": "Manchester City vs Girona HD",
-			"pageUrl": "https://yypull.gdsth.com/live/stream-265460.m3u8?auth_key=1671303071-0-0-369dfc9b631275513dc1cb6ba40f26db ",
-			"type": "Club Friendly 🔴 ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPklUUJQltLiw-pt9ziIxlBz90-U6phX9smg&usqp=CAU"
-		},	
+			"user": "Arsenal vs Juventus HD          🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_905567_lhd.flv?auth_key=1671387598-0-0-e8cf1a61441ac1e9177c3f6ab8159301 ",
+			"type": "Club Friendly ",
+			"webFormatUrl": "https://footballia.net/cache/matches/bcc3e9d5ab5944ea6d98322f3a4a010e.png"
+		},
+		{
 
+			"user": "Arsenal vs Juventus HD2          🔴",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1671324551-0-0-2837f15fc1df0b50ea1e3646eb7bd886",
+			"type": "Club Friendly ",
+			"webFormatUrl": "https://footballia.net/cache/matches/bcc3e9d5ab5944ea6d98322f3a4a010e.png"
+		},
+		
+			
+		
+		{
+
+			"user": "Udinese vs Athletic Club HD          🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920576_lhd.flv?auth_key=1671389317-0-0-171f138ba2af016f8a88ab322efae948 ",
+			"type": "Club Friendly ",
+			"webFormatUrl": "https://punditfeed.com/wp-content/uploads/2022/12/Udinese-vs-Athletic-Bilbao.png"
+		},
+		
+		
+		{
+
+			"user": "Napoli vs Villareal SD          🔴",
+			"pageUrl": "https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=6e8b4504c48ed361bacbb2492fc0d90d&txTime=639e0e8d ",
+			"type": "Club Friendly ",
+			"webFormatUrl": "https://api.sofascore.app/api/v1/event/10934727/share-image/16x9"
+		},
+		{
+
+			"user": "Napoli vs Villareal HD          🔴",
+			"pageUrl": "https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=6e8b4504c48ed361bacbb2492fc0d90d&txTime=639e0e8d ",
+			"type": "Club Friendly ",
+			"webFormatUrl": "https://api.sofascore.app/api/v1/event/10934727/share-image/16x9"
+		},
 
 		
-{
-
-			"user": "Croatia vs Morocco SD",
-			"pageUrl": "http://lb.yacinetvkora.com:80/live/lb555/bm1-144.m3u8 ",
-			"type": "FIFA WORLD CUP 🔴 ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6XMkLIUv8SqEh4Bd3mfHEd4NBDMrLfT24Mm9qf5966jdocuM5qPRv00&s=10"
-		},	
-
-		
-{
-
-			"user": "Croatia vs Morocco HD",
-			"pageUrl": "https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8 ",
-			"type": "FIFA WORLD CUP 🔴 ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6XMkLIUv8SqEh4Bd3mfHEd4NBDMrLfT24Mm9qf5966jdocuM5qPRv00&s=10"
-		},	
-
-
-
-		
-{
-
-			"user": "Croatia vs Morocco HD2",
-			"pageUrl": "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=48c4d039208adb7c96a36559dc31f566&txTime=639f1c37 ",
-			"type": "FIFA WORLD CUP 🔴 ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6XMkLIUv8SqEh4Bd3mfHEd4NBDMrLfT24Mm9qf5966jdocuM5qPRv00&s=10"
-		},	
+\
 {
 
 			"user": "PTV SPORTS",
