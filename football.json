@@ -5,23 +5,31 @@
 	
 {
 
-			"user": "Manchester United vs Burnley SD          🔴",
-			"pageUrl": "http://45.63.79.56:80/bein_sports_premium_1_sd/video.m3u8?token=gY8eHYWGN1Bkp3",
+			"user": "Manchester City vs Liverpool SD            🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_866196_lhd.flv?auth_key=1671818619-0-0-5741d98640f5540f2848c72e0cb7bd1f",
 			"type": "England - League Cup ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},	
 	
 	{
 
-			"user": "Manchester United vs Burnley SD          🔴",
-			"pageUrl": "http://45.63.79.56:80/bein_sports_premium_1_hd/video.m3u8?token=gY8eHYWGN1Bkp3",
+			"user": "Manchester City vs Liverpool HD              🔴",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1671815786-0-0-8fd9bba0b309f89fe0e0625789a5a50c",
 			"type": "England - League Cup ",
 			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
 		},
 	
-		
+		{
+
+			"user": "Manchester City vs Liverpool HD2              🔴",
+			"pageUrl": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1671759186-0-0-53b96f56ca0d2e5453dc3f72491d3bdc",
+			"type": "England - League Cup ",
+			"webFormatUrl": "https://www.pngkey.com/png/detail/296-2960445_efl-league-cup-semi-finals-efl-cup-logo.png"
+		},
 		
 	
+	
+		
 	
 
 
