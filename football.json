@@ -1,27 +1,45 @@
-The fastest football live scores app: fixtures, results and more.
+{
+	"hits": [
+		
+		
+	{
 
-AiScore is your Live score expert, bringing to you more information, more statistics and a completely new experience on your smartphone. Here you are even informed faster than the TV viewers!
+			"user": "Salernitana vs Juventus SD     🔴    ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_428447_lhd.flv?auth_key=1675882747-0-0-6a1bea042de77135aa9ce776522d78ae",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		
+		
+		{
 
-With In-depth coverage of football, basketball, tennis and snooker, AiScore brings you live score,goals, yellow or red cards, H2H, fixtures, match live, team and player stats, standings, lineups and other important stats from FIFA World Cup, English Premier League, Spanish La Liga, UEFA Champions League, NBA, FIBA, Basketball Champions League, ATP tennis, WTA tennis, World Snooker Championship - major or small leagues and competitions all over the world!
+			"user": "Salernitana vs Juventus HD1    🔴    ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1675882826-0-0-cd2cf17646ff42ffcd985d497359fa01",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
+		
+		{
 
-TOP HIGHLIGHTS:
+			"user": "Salernitana vs Juventus HD3    🔴    ",
+			"pageUrl": "https://standard-pull.qcllh.com/sm/10021_916158_lhd.flv?auth_key=1675877300-0-0-9e48e48f8c2f4c6ee070c6195f4a0562",
+			"type": "Italy - Serie A",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/800px-Serie_A_logo_2022.svg.png"
+		},
 
-*All Games - Follow all today's matches in real time. Also, you can check out the matches on specific day by DateTime Picker.
+		
+	
+	{
 
-*Live - Stay up to date with all the latest scores and results from hundreds and thousands of games worldwide. Every score at a glance. Just tap the matchup for Box Score or Lineups, H2H and Match Live.
 
-*Favorites - Choose your favorite team and competition on matchup and always be up-to-date.
 
-*Instant Notification - Get instant notifications of goal, corner, red or yellow card, start, starting lineups and final results for all live or your followed matches. A pop-up window will appear to inform you of score changing when you turn on the "Score Reminder”.
 
-*Leagues - In-depth coverage of leagues, cups and tournaments from over 200 countries. Check out latest rankings, standings, team or player stats and more.
+			"user": " SPORTS HNCD    🔴     ",
+			"pageUrl": "http://golive.yn.lt/live/champions/01.m3u8 ",
+			"type": "FOOTBALL  ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsa4g436Ye7orBzGtEux0XnuYGBprUdaqhaA&usqp=CAU"
+		}
+	]
 
-Football: Over 2,600 different football matches, over 37,000 teams (including FIFA World Cup, Premier League, Champions League, Serie A, La Liga, Bundesliga, MLS, FA Cup, League Cup, Europa League, Championship and many more)
 
-Basketball: Over 500 tournaments including FIBA Basketball World Cup, NBA, BCL
-
-Tennis: Complete source for worldwide tennis matches including ATP, WTA
-
-Snooker: Complete source for worldwide snooker matches including World Championship, UK Championship, Masters
-
-*Chatroom - Get connected with other sports fans from all over the world. No game is boring if you can chat live.
+}
