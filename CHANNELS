@@ -1,0 +1,160 @@
+##https://kusnadipepenk.github.io/ntn/asp1.m3u8
+#EXTINF:0  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="C-Sports",ASSP 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium124/index.m3u8
+##https://kusnadipepenk.github.io/ntn/asp2.m3u8
+#EXTINF:0  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="C-Sports",ASSP 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium125/index.m3u8
+##https://kusnadipepenk.github.io/ntn/asp3.m3u8
+##http://ddy1.cdnhks.lol/ddy1/premium125/tracks-v1a1/mono.m3u8
+#EXTINF:0  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="C-Sports",ASSP 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lol/lb/premium126/index.m3u8|referrer=https://streamservicehd.click/
+##https://kusnadipepenk.github.io/ntn/asp4.m3u8
+##http://45.129.133.15:8080/3f6d5b2f/4b60123137/157558
+
+##https://webudit.cdnhks.lol/lb/premium43/index.m3u8|referrer=https://streamservicehd.click/ 
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="C-Sports",Sporttv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="C-Sports",Sporttv 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="C-Sports",Sporttv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="C-Sports",Sporttv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+#EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="C-Sports",Eleven 1
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+#EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="C-Sports",Eleven 2
+https://kusnadipepenk.github.io/ntn/ele2.m3u8
+#EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="C-Sports",Eleven 3
+https://kusnadipepenk.github.io/ntn/ele3.m3u8
+#EXTINF:0  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="C-Sports",Sky Sport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+##https://webudit.cdnhks.lol/lb/premium35/index.m3u8|referrer=https://streamservicehd.click/
+https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+
+#EXTINF:0  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="C-Sports",Sky Sport Arena
+https://kusnadipepenk.github.io/ntn/skyare.m3u8
+#EXTINF:0  tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN1.png" group-title="C-Sports",Dazn 1s Sport
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=mpd
+##EXTVLCOPT:network-caching=1000
+##EXTVLCOPT:http-user-agent="FireFox"
+##EXTVLCOPT--http-reconnect=true
+##https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/64711
+##https://kusnadipepenk.github.io/ntn/daz1.m3u8
+
+#EXTINF:0  tvg-logo="http://boomtivi.xyz/images/logos/DE/DAZN2.png" group-title="C-Sports",Dazn 2 Sport
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/64712
+
+#EXTINF:0  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="C-Sports",Arena 1 Sport
+https://kusnadipepenk.github.io/ntn/arns1.m3u8
+#EXTINF:0  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="C-Sports",Arena 2 Sport
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
+#EXTINF:0  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/Arena-Sport-3-1.png" group-title="C-Sports",Arena 3 Sport
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+#EXTINF:0  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="C-Sports",Arena 4 Sport
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
+#EXTINF:0 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Sports.png?raw=true" group-title="C-Sports",True PL Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162591
+##https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+##https://kusnadipepenk.github.io/ntn/truf1.m3u8
+#EXTINF:0 tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Sports.png?raw=true" group-title="C-Sports",True PL Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162592
+##https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+##https://kusnadipepenk.github.io/ntn/truf2.m3u8
+#EXTINF:0 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="C-Sports",SuperSport Motor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+##https://webudit.cdnhks.lol/lb/premium424/index.m3u8
+https://kusnadipepenk.github.io/ntn/vspom.m3u8
+#EXTINF:0 group-title="C-Sports",ESPN
+https://kusnadipepenk.github.io/ntn/espn.m3u8
+
+#EXTINF:0 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/2/7/8/1344278_skysportslogo_138219.jpg" group-title="C-Sports",Sky SPort motoGP
+##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/9880
+https://kusnadipepenk.github.io/ntn/skygp.m3u8
+#EXTINF:0 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="C-Sports",Sky Sport PL
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+#EXTINF:0 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="C-Sports",SuperSport PL
+https://kusnadipepenk.github.io/ntn/superprem.m3u8
+#EXTINF:0 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="C-Sports",Supersport GOLF
+https://kusnadipepenk.github.io/ntn/golf2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="C-Sports",Sony Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:0 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="C-Sports",Eleven Sport 1
+https://kusnadipepenk.github.io/ntn/elesp1.m3u8
+#EXTINF:0 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="C-Sports",Eleven Sport 2
+https://kusnadipepenk.github.io/ntn/elesp2.m3u8
+#EXTINF:0 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="C-Sports",Eleven Sport 3
+https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+#EXTINF:0 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/2/7/8/1344278_skysportslogo_138219.jpg" group-title="C-Sports",Sky Sport GOLF
+https://kusnadipepenk.github.io/ntn/golf.m3u8
+#EXTINF:0 group-title="C-Sports" tvg-logo="https://github.com/kusnadipepenk/pajal/blob/main/Sports.png?raw=true",GOLF+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="C-Sports",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium404/index.m3u8|referrer=https://streamservicehd.click/
+#EXTINF:0 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="C-Sports",NBC Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
+##https://webudit.onlinewebtv.lol/lb/premium318/index.m3u8|referrer=https://streamservicehd.click/
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/5845
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="C-Sports",SPOTV
+https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:0 group-title="C-Sports" tvg-id="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png",Spotv (alt)
+https://kusnadipepenk.github.io/ntn/spotv1.m3u8
+
+#EXTINF:0 group-title="C-Sports" tvg-id="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png",Spotv2 (alt)
+##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298571
+https://kusnadipepenk.github.io/ntn/spotv2.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="C-Sports",SPOTV2
+https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/97/Soccer_Channel.png" group-title="C-Sports",Soccer Channel
+https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/225-2256876_edge-sport-logo-png-png-download-edge-sport.png" group-title="C-Sports",Edge Sport
+https://edgesport-samsungus.amagi.tv/playlist480p.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img.freepik.com/premium-vector/tennis-logo_20448-250.jpg" group-title="C-Sports",Tennis
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="C-Sports",EUROSport
+https://kusnadipepenk.github.io/ntn/eurospo.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="C-Sports",TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
